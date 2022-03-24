@@ -14,23 +14,23 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
-  
-  email: georgio@fit.edu
-  phone: +1 321 674 7125
+
+  email: test@example.org
+  phone: 888 888 88 88
   address:
-    street: 150 W. University Blvd
-    city: Melbourne
-    region: FL
-    postcode: '32901'
-    country: 'United States'
+    street: 450 Serra Mall
+    city: Stanford
+    region: CA
+    postcode: '94305'
+    country: United States
     country_code: US
   coordinates:
-    latitude: '28.0649538669172', 
-    longitude: '-80.62300054458242'
-  directions: Room 3xx, Olin Engineering Complex
-  #office_hours:
-  # - 'Monday 10:00 to 13:00'
-  # - 'Wednesday 09:00 to 10:00'
+    latitude: '37.4275'
+    longitude: '-122.1697'
+  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  office_hours:
+    - 'Monday 10:00 to 13:00'
+    - 'Wednesday 09:00 to 10:00'
   appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
@@ -48,7 +48,7 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+      captcha: false
 
 design:
   columns: '1'
