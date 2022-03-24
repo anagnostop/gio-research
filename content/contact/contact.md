@@ -22,7 +22,7 @@ content:
     city: Melbourne
     region: FL
     postcode: '32901'
-    country: United States
+    country: 'United States'
     country_code: US
   coordinates:
     latitude: '28.0649538669172', 
