@@ -18,10 +18,10 @@ content:
   email: georgio (AT) fit (DOT) edu
   phone: +1 321 674 7125
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 150 W. University Blvd
+    city: Melbourne
+    region: FL
+    postcode: '32901'
     country: United States
     country_code: US
   coordinates:
