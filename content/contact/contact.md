@@ -15,7 +15,8 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: georgio AT fit DOT edu
+  #email: georgio AT fit DOT edu
+  email: georgio@fit.edu
   phone: +1 321 674 7125
   address:
     street: 150 W. University Blvd
@@ -28,9 +29,9 @@ content:
     latitude: '28.0649538669172', 
     longitude: '-80.62300054458242'
   directions: Room 3xx, Olin Engineering Complex
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+  #office_hours:
+  # - 'Monday 10:00 to 13:00'
+  # - 'Wednesday 09:00 to 10:00'
   appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
