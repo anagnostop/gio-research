@@ -29,7 +29,7 @@ content:
     longitude: '-80.62300054458242'
   directions: Room 344, F.W. Olin Engineering building
   office_hours:
-    - Our local time is Eastern Time 'https://time.is/ET'
+    - Our local time is [Eastern Time](https://time.is/ET)
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'
