@@ -16,7 +16,7 @@ content:
   # Contact (edit or remove options as required)
 
   email: georgio (AT) fit (DOT) edu
-  phone: 888 888 88 88
+  phone: +1 321 674 7125
   address:
     street: 450 Serra Mall
     city: Stanford
