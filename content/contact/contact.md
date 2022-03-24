@@ -14,8 +14,7 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
-
-  #email: georgio AT fit DOT edu
+  
   email: georgio@fit.edu
   phone: +1 321 674 7125
   address:
