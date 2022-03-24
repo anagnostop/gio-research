@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Welcome to our **machine learning research group** at Florida Institute of Technology in Melbourne, Florida, US. Find out about who we are and what we do!
