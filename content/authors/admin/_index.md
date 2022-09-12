@@ -17,7 +17,7 @@ organizations:
 bio: I lead the Machine Learning Research Group at FIT.
 
 interests:
-  - Machine Learning 
+  - Machine Learning
   - Artificial Intelligence
   - Optimization
 
