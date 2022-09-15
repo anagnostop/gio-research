@@ -20,7 +20,8 @@ content:
     - Researchers
     - Doctoral Students
     - Master's Students
-    - Undergraduate Students
+    - Affiliates
+    - Past Affiliates
     - Alumni
 design:
   show_interests: false

@@ -2,7 +2,7 @@
 title: 'An example journal article'
 authors:
   - admin
-  - Robert Ford
+  - Xi Zhang
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'

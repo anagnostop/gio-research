@@ -7,19 +7,19 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
+  theme_night: minimal
   font: native
-  font_size: L
+  font_size: M
 
 # SEO
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: ResearchOrganization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'gio-research.ai'
+    description: 'Georgios C. Anagnostopoulos` Machine Learning Research Group'
+    twitter: 'g_anagnostop'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/anagnostop/gio-research'
     content_dir: content
     branch: main
   avatar:
