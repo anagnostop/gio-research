@@ -13,6 +13,9 @@ main:
   - name: people
     url: people
     weight: 30
+  - name: research
+    url: project
+    weight: 40
   - name: publications
     url: publication
     weight: 50

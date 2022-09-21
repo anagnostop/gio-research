@@ -1,8 +1,8 @@
 ---
-title: Publications
+title: Research
 
 # Listing view
-view: citation
+view: compact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
@@ -13,10 +13,11 @@ banner:
 <br>
 
 <p align="center">
-  A list of publications by our group members since 2018.
+  A list of recent research projects and initiatives.
 </p>
 
 <br>
 
 
 ***
+
