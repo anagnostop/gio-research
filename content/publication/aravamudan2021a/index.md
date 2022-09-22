@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Deep Residual Downscaling of Remote Sensing Imagery for Flood Hazard Assessment"
-authors: ["Akshay Aravamudan", "Zimeena Rasheed", "Xi Zhang", "Georgios C. Anagnostopoulos", "Witold F. Krajewski", "Efthymios I. Nikolopoulos"]
+authors: [akshay-aravamudan, "Zimeena Rasheed", xi-zhang, admin, "Witold F. Krajewski", "Efthymios I. Nikolopoulos"]
 date: 2021-12-16T20:45:40-04:00
 doi: ""
 

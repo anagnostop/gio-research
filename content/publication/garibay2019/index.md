@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Deep Agent: Computational Social Science Centered Simulation of Online Information Environments"
-authors: ["Ivan Garibay", "Madeline Schiappa", "Georgios C. Anagnostopulos", "Christina Bouwens", "Stephen M. Fiore", "Heather Keathley", "Alexander Mantzaris", "John T. Murphy", "William Rand", "Anastasia Salter", "Mel Stanfill", "Gita Sukthankar", "Nisha Baral", "Anamaria Berea", "Chathika Gunaratne", "Neda B. Hajiakhoond", "Gabriel Fair", "Jasser Jasser", "Chathura Jayalath", "Ece Mutlu", "Olivia B. Newton", "Amirarsalan Rajabi", "Samaneh Saadat", "Steve R. Scheinert", "Chathurani Senevirathna", "Rachel Winter", "Xi Zhang"]
+authors: ["Ivan Garibay", "Madeline Schiappa", admin, "Christina Bouwens", "Stephen M. Fiore", "Heather Keathley", "Alexander Mantzaris", "John T. Murphy", "William Rand", "Anastasia Salter", "Mel Stanfill", "Gita Sukthankar", "Nisha Baral", "Anamaria Berea", "Chathika Gunaratne", "Neda B. Hajiakhoond", "Gabriel Fair", "Jasser Jasser", "Chathura Jayalath", "Ece Mutlu", "Olivia B. Newton", "Amirarsalan Rajabi", "Samaneh Saadat", "Steve R. Scheinert", "Chathurani Senevirathna", "Rachel Winter", xi-zhang]
 date: 2019-07-08T22:37:36-04:00
 doi: ""
 

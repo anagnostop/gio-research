@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Anytime Information Cascade Popularity Prediction via Self-Exciting Processes"
-authors: ["Xi Zhang", "Akshay Aravamudan", "Georgios C. Anagnostopoulos"]
+authors: [xi-zhang, akshay-aravamudan, admin]
 date: 2022-07-30T17:24:30-04:00
 doi: ""
 

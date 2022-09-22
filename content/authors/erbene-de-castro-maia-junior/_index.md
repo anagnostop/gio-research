@@ -4,7 +4,7 @@ title: "Erbene de Castro Maia Junior"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "Erbene"
+- "Erbene de Castro Maia Junior"
 
 # Is this the primary user of the site?
 superuser: false
@@ -60,7 +60,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

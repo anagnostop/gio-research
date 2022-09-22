@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Advancing flood warning procedures in ungauged basins with machine learning"
-authors: [ "Zimeena Rasheed", "Akshay Aravamudan", "Ali Gorji Sefidmazgi", "Georgios C. Anagnostopoulos", "Efthymios I. Nikolopoulos" ]
+authors: [ "Zimeena Rasheed", akshay-aravamudan, "Ali Gorji Sefidmazgi", admin, "Efthymios I. Nikolopoulos" ]
 date: 2022-05-22T17:33:01-04:00
 doi: "10.1016/j.jhydrol.2022.127736"
 

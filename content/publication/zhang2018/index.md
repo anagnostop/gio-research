@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Pareto-Optimal Model Selection via SPRINT-Race"
-authors: ["Tiantian Zhang", "Michael Georgiopoulos", "Georgios C. Anagnostopoulos"]
+authors: ["Tiantian Zhang", "Michael Georgiopoulos", admin]
 date: 2018-01-20T23:03:55-04:00
 doi: "10.1109/TCYB.2017.2647821"
 

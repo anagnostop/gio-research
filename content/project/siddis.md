@@ -4,7 +4,7 @@
 title: "SIDDIS"
 subtitle: "**S**atellite **I**magery **D**ownscaling via **D**eep **I**mage **S**uper-resolution"
 summary: "This is a summary."
-authors: ["Akshay Aravamudan", "Zimeena Rasheed", "Kira E. Scarpignato", "Xi Zhang", "Efthymios I. Nikolopoulos", "Georgios C. Anagnostopoulos"]
+authors: [akshay-aravamudan, "Zimeena Rasheed", "Kira E. Scarpignato", xi-zhang, "Efthymios I. Nikolopoulos", admin]
 tags: []
 categories: []
 date: 2022-09-15T22:41:49-04:00

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Flood prediction in ungauged basins with machine learning and satellite precipitation data"
-authors: ["Zimeena Rasheed", "Akshay Aravamudan", "Georgios C. Anagnostopoulos", "Efthymios I. Nikolopoulos"]
+authors: ["Zimeena Rasheed", akshay-aravamudan, admin, "Efthymios I. Nikolopoulos"]
 date: 2022-05-20T07:54:26-04:00
 doi: ""
 

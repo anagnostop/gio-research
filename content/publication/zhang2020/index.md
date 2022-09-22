@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Predicting Software Vulnerability Exploits from Social Media Confabulations"
-authors: ["Xi Zhang", "Akshay Aravamudan", "Anna Koufakou", "Chathika Gunaratne", "Ivan Garibay", "Georgios C. Anagnostopoulos"]
+authors: [xi-zhang, akshay-aravamudan, "Anna Koufakou", "Chathika Gunaratne", "Ivan Garibay", admin]
 date: 2020-07-20T22:02:28-04:00
 doi: ""
 

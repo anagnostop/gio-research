@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "ACE: An ATAK Plugin for Enhanced Acoustic Situational Awareness at the Edge"
-authors: ["David Nieves-Acaron", "Benjamin Luchterhand", "Akshay Aravamudan", "David Elliott", "Steven Wyatt", "Carlos E. Otero", "Luis D. Otero", "Anthony O. Smith", "Adrian M. Peter", "Wesley Jones", "Eric Lam"]
+authors: ["David Nieves-Acaron", "Benjamin Luchterhand", akshay-aravamudan, "David Elliott", "Steven Wyatt", "Carlos E. Otero", "Luis D. Otero", "Anthony O. Smith", "Adrian M. Peter", "Wesley Jones", "Eric Lam"]
 date: 2021-12-15T21:00:50-04:00
 doi: "10.1109/MILCOM52596.2021.9653127"
 

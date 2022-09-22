@@ -2,8 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Multi-label Learning via Codewords"
-authors: ["Mahlagha Sedghi", "Yinjie Huang", "Michael Georgiopoulos", "Georgios
-  C. Anagnostopoulos"]
+authors: ["Mahlagha Sedghi", "Yinjie Huang", "Michael Georgiopoulos", admin]
 date: 2018-11-20T23:02:19-04:00
 doi: "10.1109/ICTAI.2018.00042"
 

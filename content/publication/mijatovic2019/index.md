@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "A Proximal Algorithm for Estimating the Regularized Wavelet-based Density-Difference"
-authors: ["Nenad Mijatovic", "Rana Haber", "Georgios C. Anagnostopoulos", "Anthony O. Smith", "Adrian M. Peter"]
+authors: ["Nenad Mijatovic", "Rana Haber", admin, "Anthony O. Smith", "Adrian M. Peter"]
 date: 2019-12-20T23:01:59-04:00
 doi: "10.1109/CSCI49370.2019.00127"
 

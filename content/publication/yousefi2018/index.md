@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Local Rademacher Complexity-based Learning Guarantees for Multi-Task Learning"
-authors: ["Niloofar Yousefi", "Yunwen Lei", "Marius Kloft", "Mansooreh Mollaghasemi", "Georgios C. Anagnostopoulos"]
+authors: ["Niloofar Yousefi", "Yunwen Lei", "Marius Kloft", "Mansooreh Mollaghasemi", admin]
 date: 2018-09-20T23:02:32-04:00
 doi: ""
 

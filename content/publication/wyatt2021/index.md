@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Environmental Sound Classification with Tiny Transformers in Noisy Edge Environments"
-authors: ["Steven Wyatt", "David Elliot", "Akshay Aravamudan", "Carlos E. Otero", "Luis D. Otero", "Georgios C. Anagnostopoulos", "Anthony O. Smith", "Adrian M. Peter", "Wesley Jones", "Steven Leung", "Eric Lam"]
+authors: ["Steven Wyatt", "David Elliot", akshay-aravamudan, "Carlos E. Otero", "Luis D. Otero", admin, "Anthony O. Smith", "Adrian M. Peter", "Wesley Jones", "Steven Leung", "Eric Lam"]
 date: 2021-09-09T10:34:07-04:00
 doi: "10.1109/WF-IoT51360.2021.9596007"
 

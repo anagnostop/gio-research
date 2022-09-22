@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Machine Learning for Flood Peak Prediction in Ungauged Basins"
-authors: ["Zimeena Rasheed", "Akshay Aravamudan", "Georgios C. Anagnostopoulos", "Ali Gorji Sefidmazgi", "Efthymios I. Nikolopoulos"]
+authors: ["Zimeena Rasheed", akshay-aravamudan, admin, "Ali Gorji Sefidmazgi", "Efthymios I. Nikolopoulos"]
 date: 2020-12-20T22:23:48-04:00
 doi: ""
 

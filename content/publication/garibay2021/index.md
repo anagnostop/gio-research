@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Deep Agent: Studying the Dynamics of Information Spread and Evolution in Social Networks"
-authors: ["Ivan Garibay", "Toktam A. Oghaz", "Niloofar Yousefi", "Ece Cigdem", "Madeline Schiappa", "Steven Scheinert", "Georgios C. Anagnostopoulos", "Christina Bowens", "Stephen M. Fiore", "Alexander Mantzaris", "John T. Murphy", "William Rand", "Anastasia Salter", "Mel Stanfill", "Gita Sukthankar", "Nisha Baral", "Gabriel Fair", "Chathika Gunaratne", "Neda B. Hajiakhoond", "Jasser Jasser", "Chathura Jayalath", "Olivia B. Newton", "Samaneh Saadat", "Chathurani Senevirathna", "Rachel Winter", "Xi Zhang"]
+authors: ["Ivan Garibay", "Toktam A. Oghaz", "Niloofar Yousefi", "Ece Cigdem", "Madeline Schiappa", "Steven Scheinert", admin, "Christina Bowens", "Stephen M. Fiore", "Alexander Mantzaris", "John T. Murphy", "William Rand", "Anastasia Salter", "Mel Stanfill", "Gita Sukthankar", "Nisha Baral", "Gabriel Fair", "Chathika Gunaratne", "Neda B. Hajiakhoond", "Jasser Jasser", "Chathura Jayalath", "Olivia B. Newton", "Samaneh Saadat", "Chathurani Senevirathna", "Rachel Winter", xi-zhang]
 date: 2021-10-03T19:41:05-04:00
 doi: ""
 

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Influence Dynamics Among Narratives"
-authors: ["Akshay Aravamudan", "Xi Zhang", "Jihye Song", "Stephen M. Fiore", "Georgios C. Anagnostopoulos"]
+authors: [akshay-aravamudan, xi-zhang, "Jihye Song", "Stephen M. Fiore", admin]
 date: 2021-07-04T20:21:39-04:00
 doi: "10.1007/978-3-030-80387-2_20"
 
