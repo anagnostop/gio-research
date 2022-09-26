@@ -39,9 +39,9 @@ featured: false
 url_pdf:
 url_code:
 url_dataset:
-url_poster:
+url_poster: rasheed2022b_poster.png
 url_project:
-url_slides:
+url_slides: rasheed2022b_slides.pdf
 url_source:
 url_video:
 

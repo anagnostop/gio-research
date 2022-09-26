@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: "Posts"
 
 # Listing view
 view: compact
@@ -9,3 +9,12 @@ banner:
   caption: ''
   image: ''
 ---
+
+<br>
+
+<p align="center">
+  Various posts and news.
+</p>
+
+<br>
+<br>

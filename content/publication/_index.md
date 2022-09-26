@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: "Publications"
 
 # Listing view
 view: citation
@@ -17,6 +17,4 @@ banner:
 </p>
 
 <br>
-
-
-***
+<br>

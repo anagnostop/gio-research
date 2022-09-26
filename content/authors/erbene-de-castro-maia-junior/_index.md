@@ -4,13 +4,13 @@ title: "Erbene de Castro Maia Junior"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "Erbene de Castro Maia Junior"
+- erbene-de-castro-maia-junior
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: M.S. Student in Computer Engineering
+role: M.S. Student of Computer Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -72,4 +72,4 @@ user_groups:
 
 ### Short Introduction
 
-Erbene de Castro Maia Junior is expected to graduate with a M.S. in Computer Engineering from Florida Tech in December 2022. He has over 7 years of experience in software engineering and has worked with several technologies. He was one of the early technology leads for the BiPTT mobile application, which has over 100,000 active users in Brazil. He has also worked on the Risk Intelligence module of the Digital Manager 360 application from SAI Global, named a 2020 Gartner Magic Quadrant Leader for IT Vendor Risk Management Tools. More recently, he completed his software engineering internship at [Salesforce](https://www.salesforce.com/) during Summer 2022. He currently works as a graduate research assistant creating production-grade software and conducting research on seismic event classification for the group's [DeLAIEINE](/project/delaieine/) project. 
+Erbene de Castro Maia Junior is expected to graduate with a M.S. in Computer Engineering from Florida Tech in December 2022. He has over 7 years of experience in software engineering and has worked with several technologies. He was one of the early technology leads for the [BiPTT](https://biptt.com.br/) mobile application, which has over 100,000 active users in Brazil. He has also worked on the Risk Intelligence module of the [Digital Manager 360](https://www.saiglobal.com/uploadedFiles/ContentWithPage/Products-and-Services/Compliance_and_Risk/IT_Risk_Manager/Digital_Manager_360_brochure_2017.pdf) application from [SAI Global](https://www.saiglobal.com/), named a 2020 Gartner Magic Quadrant Leader for IT Vendor Risk Management Tools. More recently, he completed his software engineering internship at [Salesforce](https://www.salesforce.com/) during Summer 2022. He currently works as a graduate research assistant creating production-grade software and conducting research on seismic event classification for the group's [DeLAEINE]({{< relref "/project/delaeine" >}})   project. 
