@@ -67,7 +67,7 @@ content:
       content: ""
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.7
         media: join.jpg   
