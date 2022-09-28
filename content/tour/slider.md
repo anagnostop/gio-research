@@ -19,7 +19,7 @@ content:
       content: "Welcome to our new home, online."
       align: center
       background:
-        position: right
+        position: left
         color: '#666'
         brightness: 0.7
         media: welcome-home.jpg
@@ -27,7 +27,7 @@ content:
       content: "at Florida Tech in Melbourne, Florida."
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.7
         media: teamwork.jpg
@@ -51,7 +51,7 @@ content:
       content: "with academia and industry."
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.7
         media: collaboration.jpg  
@@ -80,7 +80,7 @@ content:
       content: ""
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.7
         media: bye.jpg
