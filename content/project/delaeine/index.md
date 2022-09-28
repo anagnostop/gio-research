@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "DeLAIEINE"
-subtitle: ""
-summary: ""
+title: "DeLAEINE"
+subtitle: "A **De**ep **L**earning **A**pproach for **E**nhanced **I**dentification of **N**uclear **E**xplosions"
+summary: "Enhanced identification of nuclear explosions from multiple seismic data sources."
 # GCA: By uncommenting the next line, this project will appear under each author's "Latest" section.
 # authors: []
 authors: []
 tags: []
 categories: []
-date: 2022-09-15T22:41:21-04:00
+date: 2021-10-11T22:41:21-04:00
 lastmod: 2022-09-15T22:41:21-04:00
 featured: false
 draft: false
@@ -29,3 +29,42 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+
+
+### Synopsis
+
+Intenionally left blank. Needs to be reviewed by ARRAY first.
+
+### People
+
+This is a joint, interdisciplinary effort of our ML Research Group and geophysicits of ARRAY Information Technology ([ARRAY](https://arrayinfotech.com/)), an information technology & solutions company in Melbourne, FL, now part of [CGI, Inc.](https://www.cgi.com/us/en-us/federal). From FIT's side, the following individuals are involved:
+
+- Ruksana Cabealo (doctoral student of Computer Engineering)
+- {{% mention "erbene-de-castro-maia-junior" %}}
+- {{% mention "akshay-aravamudan" %}}
+- {{% mention "xi-zhang" %}}
+- Dr. Anthony O. Smith (Electrical & Computer Engineering)
+- {{% mention "admin" %}}
+
+
+
+### Support
+
+Our efforts are supported through the following federal Small Business Innovation Research Program (SBIR) Phase II grant:
+
+- Anagnostopoulos (PI) & Smith (Co-PI), $443,848, Defense
+Threat Reduction Agency (subcontract from ARRAY), Prime Contract
+No. HDTRA1-22-C-0005, "A Deep Learning Approach for Enhanced Identification of
+Nuclear Explosions," 10/11/2021 – 10/10/2023.
+
+The grant fully supports de Castro Maia Junior, Aravamudan, Zhang and partially supports Cabealo.
+
+
+
+### Outcomes
+
+We will be reporting outcomes of this project as they become available. 
+
+
+
