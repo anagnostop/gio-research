@@ -15,33 +15,73 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: "<strong>Hello!</strong>"
+      content: "Welcome to our new home, online."
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
-      align: left
+        media: welcome-home.jpg
+    - title: "We are the<br><strong>Machine Learning</strong><br><strong>Research Group</strong>" 
+      content: "at Florida Tech in Melbourne, Florida."
+      align: center
       background:
-        position: center
-        color: '#555'
+        position: right
+        color: '#666'
         brightness: 0.7
-        media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
-      align: right
+        media: teamwork.jpg
+    - title: "Our passion is <strong>ML/AI</strong>." 
+      content: "We have expertise in Optimization, Statistics,<br> and Probabilistic Modelling."
+      align: center
       background:
-        position: center
-        color: '#333'
-        brightness: 0.5
-        media: welcome.jpg
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: gears.jpg
+    - title: "We specialize in modeling<br><strong>event timings</strong>" 
+      content: "using temporal point process."
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: watches.jpg  
+    - title: "We pursue<br><strong>interdisciplinary collaborations</strong>" 
+      content: "with academia and industry."
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: collaboration.jpg  
+    - title: "We invite you to visit" 
+      content: "our <strong>Research</strong> and <strong>Publications</strong> pages."
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: library.jpg  
+    - title: "Interested?" 
+      content: ""
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: join.jpg   
       link:
         icon: graduation-cap
         icon_pack: fas
-        text: Join Us
-        url: ../contact/
+        text: "Join us"
+        url: ../contact/  
+    - title: "Thanks for stopping by..." 
+      content: ""
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: bye.jpg
 ---
