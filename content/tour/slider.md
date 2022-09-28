@@ -51,7 +51,7 @@ content:
       content: "with academia and industry."
       align: center
       background:
-        position: center
+        position: left
         color: '#666'
         brightness: 0.7
         media: collaboration.jpg  
