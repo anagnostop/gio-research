@@ -29,7 +29,7 @@ image:
 projects: []
 ---
 
-It has been a long while since our group has been without a web presence and we hope to change this soon. Towards this, we are deploying today an alpha version of our new website via [Netlify](https://netlify.com) using a [Hugo](https://gohugo.io/) template provided by [wowchemy](https://wowchemy.com/) (George "Geo" Cushen).
+It has been a long while since our group has been without a web presence and we hope to change this soon. Towards this, we are deploying today an alpha version of our new website via [Netlify](https://netlify.com) using a [Hugo](https://gohugo.io/) template provided by [wowchemy](https://wowchemy.com/) (George "Geo" Cushen). 
 
 <!--more-->
 
