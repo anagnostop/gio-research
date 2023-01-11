@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Silent Launch"
-subtitle: "We are launching our new website, but... silently so."
-summary: "We are launching our new website, but... silently so."
+title: "AI-in-Ag Meeting 2023"
+subtitle: "Our group will be there :sunglasses:"
+summary: "Our group will be there :sunglasses:"
 authors: [admin]
 tags: []
 categories: []
-date: 2022-04-15T17:27:50-04:00
-lastmod: 2022-04-15T17:27:50-04:00
+date: 2023-01-10T17:59:40-04:00
+lastmod: 2023-01-10T17:59:40-04:00
 featured: false
 draft: false
 share: true
@@ -26,12 +26,16 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
+# GCA: If associated to a project, the post will appear twice on the project page.
 projects: []
 ---
 
-It has been a long while since our group has been without a web presence and we hope to change this soon. Towards this, we are deploying today an alpha version of our new website via [Netlify](https://netlify.com) using a [Hugo](https://gohugo.io/) template provided by [wowchemy](https://wowchemy.com/) (George "Geo" Cushen). 
+I am very excited to be part of the 2023 AI-in-Ag Meeting to be held in Orlando, Florida, 17-19 April 2023. 
 
 <!--more-->
 
- We will continue working on it until we beat it into a shape that suits our purposes. Until then,... patience :smile:.  
+Check out my relevant LinkedIn post below :wink: .
+
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7018620975369916416" allowfullscreen="" title="Embedded post" width="100%" height="979" frameborder="0"></iframe>
 
