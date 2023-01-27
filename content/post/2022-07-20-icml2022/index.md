@@ -30,7 +30,7 @@ image:
 projects: []
 ---
 
-MLRG members Xi Zhang and Akshay Aravamudan are attending the 39th International Conference on Machine Learning ([ICML 2022](https://icml.cc/Conferences/2022)) held in Baltimore, MD, during July 17-23, 2022.
+**Jul 20, 2022.** MLRG members Xi Zhang and Akshay Aravamudan are attending the 39th International Conference on Machine Learning ([ICML 2022](https://icml.cc/Conferences/2022)) held in Baltimore, MD, during July 17-23, 2022.
 
 <!--more-->
 

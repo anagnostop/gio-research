@@ -4,7 +4,7 @@
 title: "MLRG's work in Florida Tech News"
 subtitle: "Xi Zhang's work on anytime information cascade popularity prediction was featured in Florida Tech News."
 summary: "Xi Zhang's work on anytime information cascade popularity prediction was featured in Florida Tech News."
-authors: [admin]
+authors: [akshay-aravamudan]
 tags: []
 categories: []
 date: 2022-11-22T17:59:40-04:00
@@ -30,7 +30,7 @@ image:
 projects: []
 ---
 
-Florida Tech News ran today an article about our group's work -- spearheaded by Xi Zhang -- on anytime information cascade popularity prediction ([zhang2022]({{<relref "/publication/zhang2022">}})). The direct link to the article is [here](https://news.fit.edu/academics-research/university-study-examines-viral-probability-of-social-media-posts/).
+**Nov 22, 2022.** Florida Tech News ran today an article about our group's work -- spearheaded by Xi Zhang -- on anytime information cascade popularity prediction ([zhang2022]({{<relref "/publication/zhang2022">}})). The direct link to the article is [here](https://news.fit.edu/academics-research/university-study-examines-viral-probability-of-social-media-posts/).
 
 <!--more-->
 

@@ -33,8 +33,9 @@ projects: []
 
 
 ### Synopsis
+ 
+The capability of accurately differentiating seismic events along natural (e.g., stemming from earthquakes) and antrhopogenic (e.g., due to mining) causal boundaries is invaluable in both commercial/civilian and security/strategic contexts. Key challenging factors ahead of this goal are the unavoidable presence of noise, the unknown propagation path characteristics and, quite commonly, the seismic event's true cause, among several other factors. This interdisciplinary effort aspires to fuse bleeding-edge advances in deep learning together with a deep understanding of the physical processes undelrying seismic events and their propagation through the Earth's medium in order to attain unprecedented discrimination performance.
 
-Intenionally left blank. Needs to be reviewed by ARRAY first.
 
 ### People
 

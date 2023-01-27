@@ -4,7 +4,7 @@
 title: "Accepted Paper by AAAI 2023"
 subtitle: "Akshay Aravamudan's paper on anytime user engagement prediction in social media was accepted at AAAI 2023."
 summary: "Akshay Aravamudan's paper on anytime user engagement prediction in social media was accepted at AAAI 2023."
-authors: [admin]
+authors: [xi-zhang]
 tags: []
 categories: []
 date: 2022-11-20T17:59:40-04:00
@@ -30,7 +30,7 @@ image:
 projects: []
 ---
 
-A paper by our group, led by Akshay Aravamudan, has been accepted for presentation at the 37th  AAAI Conference on Artificial Intelligence ([AAAI 2023](https://aaai.org/Conferences/AAAI-23/)), which will be held in Washington, DC, during February 7-14, 2023.
+**Nov 20, 2022.** A paper by our group, led by Akshay Aravamudan, has been accepted for presentation at the 37th  AAAI Conference on Artificial Intelligence ([AAAI 2023](https://aaai.org/Conferences/AAAI-23/)), which will be held in Washington, DC, during February 7-14, 2023.
 
 <!--more-->
 

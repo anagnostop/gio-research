@@ -4,7 +4,7 @@
 title: "Invited Talk at FIT's CS Seminar"
 subtitle: "Xi Zhang is invited to talk at FIT's CS Seminar on November 4."
 summary: "Xi Zhang is invited to talk at FIT's CS Seminar on November 4."
-authors: [admin]
+authors: [akshay-aravamudan]
 tags: []
 categories: []
 date: 2022-10-28T17:28:09-04:00
@@ -30,7 +30,7 @@ image:
 projects: []
 ---
 
-MLRG member Xi Zhang will give a talk, titled ``Information Cascade Popularity Prediction in Social Media: A Predictive Point Process Approach'' at FIT's Computer Science Seminar. It is based on her recent work on anytime information cascade popularity prediction ([zhang2022]({{<relref "/publication/zhang2022">}})).
+**Oct 28, 2022.** MLRG member Xi Zhang will give a talk, titled ``Information Cascade Popularity Prediction in Social Media: A Predictive Point Process Approach'' at FIT's Computer Science Seminar. It is based on her recent work on anytime information cascade popularity prediction ([zhang2022]({{<relref "/publication/zhang2022">}})).
 
 <!--more-->
 
