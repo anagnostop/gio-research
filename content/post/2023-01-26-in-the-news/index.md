@@ -17,7 +17,7 @@ share: true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Credit: By [Md Mahdi](https://unsplash.com/@mahdi17) on [Unsplash](https://unsplash.com)"
   focal_point: ""
   preview_only: false
 
