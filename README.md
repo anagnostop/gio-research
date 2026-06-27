@@ -61,6 +61,8 @@ the committed SHA-256 manifest:
 A small number of service-backed features are documented in
 `docs/external-services.md`.
 
+For a concise day-to-day maintenance checklist, see `docs/maintenance.md`.
+
 ## Deployment safety
 
 Netlify builds `main` using the command and Hugo version in `netlify.toml`.
