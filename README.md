@@ -46,6 +46,21 @@ Start a local development server:
 The initial bootstrap requires access to the official Hugo GitHub release.
 After that, builds work without network access.
 
+Browser libraries and fonts used by the public site are stored under
+`static/vendor/`. Their licenses and notices are listed in
+`THIRD_PARTY_NOTICES.md`.
+
+After building, verify that local browser assets are present and no CDN was
+reintroduced into the public pages. This also checks every stored asset against
+the committed SHA-256 manifest:
+
+```bash
+./scripts/check-browser-assets.sh
+```
+
+A small number of service-backed features are documented in
+`docs/external-services.md`.
+
 ## Deployment safety
 
 Netlify builds `main` using the command and Hugo version in `netlify.toml`.
