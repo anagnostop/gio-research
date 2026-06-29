@@ -10,10 +10,7 @@ doi: "10.1109/TCYB.2017.2647821"
 publishDate: 2022-09-20T23:03:55-04:00
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["journal-article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Cybernetics"
@@ -59,6 +56,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
+url_publication:
 url_code: https://github.com/watera427/SPRINT-Race
 url_dataset:
 url_poster:

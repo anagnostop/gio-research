@@ -10,10 +10,7 @@ doi: "10.1016/j.dib.2023.109091"
 publishDate: 2023-04-06T16:00:00-04:00
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["journal-article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Data in Brief"
@@ -36,9 +33,10 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.sciencedirect.com/science/article/pii/S235234092300210X
+url_pdf:
+url_publication:
 url_code:
-url_dataset:
+url_dataset: https://zenodo.org/records/7004819
 url_poster:
 url_project:
 url_slides:

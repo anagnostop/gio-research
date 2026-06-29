@@ -10,10 +10,7 @@ doi: ""
 publishDate: 2022-09-20T22:37:36-04:00
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["conference-abstract"]
 
 # Publication name and optional abbreviated publication name.
 publication: "5th International Conference on Computational Social Science"
@@ -37,6 +34,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://arxiv.org/pdf/2003.11611.pdf
+url_publication:
 url_code:
 url_dataset:
 url_poster:

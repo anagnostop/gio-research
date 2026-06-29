@@ -10,10 +10,7 @@ doi: "10.1109/WF-IoT51360.2021.9596007"
 publishDate: 2022-09-20T10:34:07-04:00
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["conference-paper"]
 
 # Publication name and optional abbreviated publication name.
 publication: "2021 IEEE 7th World Forum on Internet of Things"
@@ -37,6 +34,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
+url_publication:
 url_code:
 url_dataset:
 url_poster:

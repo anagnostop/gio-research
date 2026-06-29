@@ -10,10 +10,7 @@ doi: "10.1007/978-3-030-80387-2_20"
 publishDate: 2021-07-04T20:21:39-04:00
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["conference-paper"]
 
 # Publication name and optional abbreviated publication name.
 publication: "2021 International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation"
@@ -37,6 +34,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
+url_publication:
 url_code:
 url_dataset:
 url_poster:

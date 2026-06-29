@@ -10,10 +10,7 @@ doi: ""
 publishDate: 2022-09-15T17:24:30-04:00
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["conference-paper"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Proceedings of the 39th International Conference on Machine Learning"
@@ -37,6 +34,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://proceedings.mlr.press/v162/zhang22a/zhang22a.pdf
+url_publication:
 url_code: https://github.com/xizhang-cc/casper
 url_dataset:
 url_poster: zhang2022_poster.pdf

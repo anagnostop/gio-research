@@ -375,20 +375,17 @@ collections:
       - label: "Publication type"
         name: "publication_types"
         required: true
-        default: ["0"]
         widget: "select"
         # Can only have 1 pub. type assigned, but need `multiple` option to save as a Hugo taxonomy list.
         multiple: true
         options:
-          - { label: "Uncategorized", value: "0" }
-          - { label: "Conference paper", value: "1" }
-          - { label: "Journal article", value: "2" }
-          - { label: "Preprint / Working Paper", value: "3" }
-          - { label: "Report", value: "4" }
-          - { label: "Book", value: "5" }
-          - { label: "Book section", value: "6" }
-          - { label: "Thesis", value: "7" }
-          - { label: "Patent", value: "8" }
+          - { label: "Journal article", value: "journal-article" }
+          - { label: "Conference paper", value: "conference-paper" }
+          - { label: "Conference abstract / talk", value: "conference-abstract" }
+          - { label: "PhD dissertation", value: "phd-dissertation" }
+          - { label: "MS thesis", value: "ms-thesis" }
+          - { label: "Preprint", value: "preprint" }
+          - { label: "Report", value: "report" }
       - label: "Authors"
         name: "authors"
         required: true
@@ -401,6 +398,8 @@ collections:
       - { label: "Publication", name: "publication", widget: "string", required: false }
       - { label: "Publication (abbreviated)", name: "publication_short", widget: "string", required: false }
       - { label: "Abstract", name: "abstract", widget: "text", required: false }
+      - { label: "Publication URL", name: "url_publication", widget: "string", required: false }
+      - { label: "Bifold URL", name: "url_bifold", widget: "string", required: false }
       - label: "Draft"
         name: "draft"
         widget: "boolean"

@@ -10,10 +10,7 @@ doi: "10.1109/MILCOM52596.2021.9653127"
 publishDate: 2022-09-20T21:00:50-04:00
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["conference-paper"]
 
 # Publication name and optional abbreviated publication name.
 publication: "2021 IEEE Military Communications Conference"
@@ -36,7 +33,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.researchgate.net/publication/357441443_ACE_An_ATAK_Plugin_for_Enhanced_Acoustic_Situational_Awareness_at_the_Edge
+url_publication:
 url_code:
 url_dataset:
 url_poster:

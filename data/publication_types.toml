@@ -1,12 +1,31 @@
 # Publication types.
-# Each item in the list corresponds to an item in the language packs.
-types = [ "pub_uncat",
-          "pub_conf",
-          "pub_journal",
-          "pub_preprint",
-          "pub_report",
-          "pub_book",
-          "pub_book_section",
-          "pub_thesis",
-          "pub_patent"
-        ]
+# Use stable string slugs in content/front matter and human-readable labels in
+# the UI. Keep the order below as the canonical display order.
+
+[[types]]
+slug = "journal-article"
+label = "Journal article"
+
+[[types]]
+slug = "conference-paper"
+label = "Conference paper"
+
+[[types]]
+slug = "conference-abstract"
+label = "Conference abstract / talk"
+
+[[types]]
+slug = "phd-dissertation"
+label = "Doctoral dissertation"
+
+[[types]]
+slug = "ms-thesis"
+label = "MS thesis"
+
+[[types]]
+slug = "preprint"
+label = "Preprint"
+
+[[types]]
+slug = "report"
+label = "Report"
