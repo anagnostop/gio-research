@@ -10,10 +10,7 @@ doi: ""
 publishDate: 2022-09-20T23:02:32-04:00
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["journal-article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Machine Learning Research"
@@ -37,6 +34,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://jmlr.org/papers/volume19/17-144/17-144.pdf
+url_publication: https://jmlr.org/papers/v19/17-144.html
 url_code:
 url_dataset:
 url_poster:

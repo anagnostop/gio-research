@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Flood prediction in ungauged basins with machine learning and satellite precipitation data"
-authors: ["Zimeena Rasheed", akshay-aravamudan, admin, "Efthymios I. Nikolopoulos"]
+authors: ["Zimeena Rasheed", akshay-aravamudan, xi-zhang, admin, "Efthymios I. Nikolopoulos"]
 date: 2022-05-20T07:54:26-04:00
 doi: ""
 
@@ -10,10 +10,7 @@ doi: ""
 publishDate: 2022-09-20T07:54:26-04:00
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["conference-abstract"]
 
 # Publication name and optional abbreviated publication name.
 publication: "2022 European Geophysical Union General Assembly"
@@ -37,6 +34,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
+url_publication:
 url_code:
 url_dataset:
 url_poster: rasheed2022b_poster.png

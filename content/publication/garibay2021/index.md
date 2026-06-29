@@ -4,16 +4,13 @@
 title: "Deep Agent: Studying the Dynamics of Information Spread and Evolution in Social Networks"
 authors: ["Ivan Garibay", "Toktam A. Oghaz", "Niloofar Yousefi", "Ece Cigdem", "Madeline Schiappa", "Steven Scheinert", admin, "Christina Bowens", "Stephen M. Fiore", "Alexander Mantzaris", "John T. Murphy", "William Rand", "Anastasia Salter", "Mel Stanfill", "Gita Sukthankar", "Nisha Baral", "Gabriel Fair", "Chathika Gunaratne", "Neda B. Hajiakhoond", "Jasser Jasser", "Chathura Jayalath", "Olivia B. Newton", "Samaneh Saadat", "Chathurani Senevirathna", "Rachel Winter", xi-zhang]
 date: 2021-10-03T19:41:05-04:00
-doi: ""
+doi: "10.1007/978-3-030-77517-9_11"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-09-20T19:41:05-04:00
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["conference-paper"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Proceedings of the 2019 International Conference of The Computational Social Science Society of the Americas"
@@ -36,7 +33,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://arxiv.org/pdf/2003.11611
+url_publication:
 url_code:
 url_dataset:
 url_poster:
