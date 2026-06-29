@@ -25,10 +25,12 @@
           <select class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype">
             <option value="*">{{ i18n "publication_type" }}</option>
             {{ $pub_types := partial "functions/get_pub_types" $ }}
-            {{ range $index, $taxonomy := site.Taxonomies.publication_types }}
-            <option value=".pubtype-{{ (int $index) }}">
-              {{ index $pub_types (int $index) }}
+            {{ range $pub_type := $pub_types }}
+            {{ if index site.Taxonomies.publication_types $pub_type.slug }}
+            <option value=".pubtype-{{ $pub_type.slug }}">
+              {{ $pub_type.label }}
             </option>
+            {{ end }}
             {{ end }}
           </select>
         </div>
@@ -53,7 +55,7 @@
         {{ if .Params.publication_types }}
           {{ $.Scratch.Set "pubtype" (index .Params.publication_types 0) }}
         {{ else }}
-          {{ $.Scratch.Set "pubtype" 0 }}
+          {{ $.Scratch.Set "pubtype" "unknown" }}
         {{ end }}
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-{{ $.Scratch.Get "pubtype" }} year-{{ .Date.Format "2006" }}">

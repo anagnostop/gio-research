@@ -65,3 +65,18 @@ can build a Deploy Preview before anything reaches `main`.
 - Third-party notices are recorded in `THIRD_PARTY_NOTICES.md`.
 - Netlify deploys from GitHub to `main`.
 - `Git Gateway` is disabled, so `/admin` CMS editing is intentionally off.
+- Publication types use string slugs in front matter, not numeric codes. Current
+  canonical slugs live in `data/publication_types.toml`.
+
+## Known UI issue
+
+- Publication filtering on `/publication/` can occasionally show stale client-side
+  state after content changes or a local rebuild. Symptom: a valid publication
+  does not appear under a year/type filter until the page is hard reloaded.
+- Confirmed on June 27, 2026 with the 2025 filter and `zhang2025`.
+- Scope: front-end filtering behavior only. The content, Hugo build, and Netlify
+  deployment were correct.
+- Temporary workaround: hard refresh the page (`Ctrl+Shift+R`) and reapply the
+  filters.
+- Later investigation should start with `assets/js/wowchemy-publication.js` and
+  `layouts/section/publication.html`.

@@ -1,14 +1,17 @@
 {{- define "main" -}}
 {{ $pub_types := partial "functions/get_pub_types" $ }}
 {{ $pub_type_param := .Params.publication_types | default (slice 0) }}
+{{ $pub_type_slug := "" }}
+{{ $pub_type := dict "slug" "" "label" "" }}
 
-{{/* Convert string in form `"0"` to int (`0`) */}}
-{{ $pub_type := (int (index $pub_type_param 0)) | default 0 }}
-
-{{/* Validate Pub Type if defined */}}
-{{ if gt $pub_type (sub (len $pub_types) 1) }}
-  {{ warnf "Unknown publication type in %s" .File.Path }}
-  {{ $pub_type = 0 }}
+{{ if gt (len $pub_type_param) 0 }}
+  {{ $pub_type_slug = index $pub_type_param 0 }}
+  {{ $pub_type_matches := where $pub_types "slug" $pub_type_slug }}
+  {{ if gt (len $pub_type_matches) 0 }}
+    {{ $pub_type = index $pub_type_matches 0 }}
+  {{ else }}
+    {{ warnf "Unknown publication type %q in %s" $pub_type_slug .File.Path }}
+  {{ end }}
 {{ end }}
 
 <div class="pub">
@@ -22,17 +25,14 @@
     <p class="pub-abstract">{{ .Params.abstract | markdownify }}</p>
     {{ end }}
 
-    {{/* If the type is Uncategorized, hide the type. */}}
-    {{ if ne $pub_type 0 }}
+    {{ if $pub_type.slug }}
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">{{ i18n "publication_type" }}</div>
           <div class="col-12 col-md-9">
-            <a href="{{ (site.GetPage "section" "publication").RelPermalink }}#{{ $pub_type | anchorize }}">
-              {{ index $pub_types $pub_type }}
-            </a>
+            {{ $pub_type.label }}
           </div>
         </div>
       </div>
