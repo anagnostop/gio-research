@@ -34,4 +34,6 @@ projects: []
 
 <!--more-->
 
-At the conference, Xi Zhang will be presenting her work on anytime information cascade popularity prediction ([zhang2022]({{<relref "/publication/zhang2022">}})).
+At the conference, Xi Zhang will be presenting her work on anytime information cascade popularity prediction.
+
+{{< publication slug="zhang2022" >}}
