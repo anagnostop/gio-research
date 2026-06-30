@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Investigating Extreme Precipitation and Associated Cloud-Top Temperatures in Flash Flood Events over West Africa"
-authors: ["Malihe Nasibi", "Viviana Maggioni", "William Amponsah", "Vanessa Robledo", "Humberto Vergara", "Prerak Patel", admin, "Danraj Lamichhane", "Efthymios I. Nikolopoulos"]
+authors: ["Malihe Nasibi", "Viviana Maggioni", "William Amponsah", "Vanessa Robledo", "Humberto Vergara", prerak-patel, admin, "Danraj Lamichhane", "Efthymios I. Nikolopoulos"]
 date: 2026-01-01T12:00:00-05:00
 doi: ""
 

@@ -18,7 +18,7 @@ organizations:
   url: "https://www.fit.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My interests include machine learning, stochastic point processes, social-media diffusion and influence, hydrology applications, and edge AI.
 
 # List each interest with a dash
 interests:
@@ -82,7 +82,7 @@ recent_publications_years: 100
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 
