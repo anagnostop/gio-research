@@ -13,6 +13,7 @@
   <div class="container">
     {{/* Show the About widget if an account exists for this user. */}}
     {{ $username := "" }}
+    {{ $author_name := .Title }}
     {{ if .File }}
       {{ $widget := "widgets/about.html" }}
       {{ $username = (path.Base .File.Dir) }}{{/* Alternatively, use `index .Params.authors 0` */}}
@@ -51,15 +52,19 @@
     {{ end }}
 
     {{ $recent_publications := slice }}
-    {{ if and $username (gt $recent_publications_years 0) }}
-      {{ $publications_year_offset := mul $recent_publications_years -1 | int }}
-      {{ $publications_cutoff := now.AddDate $publications_year_offset 0 0 }}
-      {{ $recent_publications = sort (where (where (where site.RegularPages "Type" "publication") "Date" "ge" $publications_cutoff) "Params.authors" "intersect" (slice $username)) "Date" "desc" }}
+    {{ if .File }}
+      {{ if and $username (gt $recent_publications_years 0) }}
+        {{ $publications_year_offset := mul $recent_publications_years -1 | int }}
+        {{ $publications_cutoff := now.AddDate $publications_year_offset 0 0 }}
+        {{ $recent_publications = sort (where (where (where site.RegularPages "Type" "publication") "Date" "ge" $publications_cutoff) "Params.authors" "intersect" (slice $username)) "Date" "desc" }}
+      {{ end }}
+    {{ else }}
+      {{ $recent_publications = sort (where (where site.RegularPages "Type" "publication") "Params.authors" "intersect" (slice $author_name)) "Date" "desc" }}
     {{ end }}
 
     {{ if gt (len $recent_publications) 0 }}
     <div class="article-widget content-widget-hr">
-      <h3>Publications</h3>
+      <h3>{{ if .File }}Publications{{ else }}Publications with Our Group{{ end }}</h3>
       <ul>
         {{ range $recent_publications }}
           {{ partial "views/author_profile_item" (dict "item" . "kind" "publication") }}
