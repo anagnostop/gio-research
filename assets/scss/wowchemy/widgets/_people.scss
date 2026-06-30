@@ -21,6 +21,17 @@
   height: auto;
 }
 
+.people-widget .avatar-placeholder {
+  width: 80%;
+  max-width: 150px;
+  aspect-ratio: 1 / 1;
+  height: auto;
+}
+
+.people-widget .avatar-initials {
+  font-size: 2rem;
+}
+
 @media (min-width: 576px) {
   .people-widget .col-sm-auto {
     width: 30%;

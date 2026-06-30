@@ -10,15 +10,8 @@
   {{ if and (eq $site_type "Person") (eq $author_page.Params.superuser true) }}
     {{ $profile_url = site.BaseURL }}
   {{ end }}
-  {{ $avatar := ($author_page.Resources.ByType "image").GetMatch "*avatar*" }}
-  {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
   <div class="media author-card content-widget-hr">
-    {{ if and site.Params.features.avatar.gravatar $author_page.Params.email }}
-      {{if $profile_url}}<a href="{{$profile_url}}">{{end}}<img class="avatar mr-3 {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="https://s.gravatar.com/avatar/{{ md5 $author_page.Params.email }}?s=200" alt="{{$author_page.Title}}">{{if $profile_url}}</a>{{end}}
-    {{ else if $avatar }}
-      {{ $avatar_image := $avatar.Fill "270x270 Center" }}
-      {{if $profile_url}}<a href="{{$profile_url}}">{{end}}<img class="avatar mr-3 {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $avatar_image.RelPermalink }}" alt="{{$author_page.Title}}">{{if $profile_url}}</a>{{end}}
-    {{ end }}
+    {{ partial "components/author_avatar" (dict "author_page" $author_page "size" 200 "link" $profile_url "class" "mr-3") }}
 
     <div class="media-body">
       <h5 class="card-title">{{if $profile_url}}<a href="{{$profile_url}}">{{end}}{{$author_page.Title}}{{if $profile_url}}</a>{{end}}</h5>

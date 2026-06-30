@@ -15,11 +15,31 @@
   object-fit: cover;
 }
 
+.avatar-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f7f6f2;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  color: #111;
+}
+
+.avatar-initials {
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  font-size: 2.75rem;
+  line-height: 1;
+}
+
 // Use smaller avatar size in About widget on small devices.
 @include media-breakpoint-down(sm) {
   .wg-about .avatar {
     width: 200px;
     height: 200px;
+  }
+
+  .wg-about .avatar-initials {
+    font-size: 2rem;
   }
 }
 

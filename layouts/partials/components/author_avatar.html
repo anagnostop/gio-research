@@ -1,0 +1,34 @@
+{{- $author_page := .author_page -}}
+{{- $size := .size | default 270 -}}
+{{- $link := .link | default "" -}}
+{{- $class := .class | default "" -}}
+{{- $avatar := ($author_page.Resources.ByType "image").GetMatch "*avatar*" -}}
+{{- $avatar_shape := site.Params.features.avatar.shape | default "circle" -}}
+{{- $shape_class := "avatar-circle" -}}
+{{- if eq $avatar_shape "square" -}}
+  {{- $shape_class = "avatar-square" -}}
+{{- end -}}
+{{- $classes := printf "avatar %s" $shape_class -}}
+{{- if $class -}}
+  {{- $classes = printf "%s %s" $classes $class -}}
+{{- end -}}
+{{- $src := "" -}}
+{{- $width := $size -}}
+{{- $height := $size -}}
+{{- if and site.Params.features.avatar.gravatar $author_page.Params.email -}}
+  {{- $src = printf "https://s.gravatar.com/avatar/%s?s=%d" (md5 $author_page.Params.email) $size -}}
+{{- else if $avatar -}}
+  {{- $avatar_image := $avatar.Fill (printf "%dx%d Center" $size $size) -}}
+  {{- $src = $avatar_image.RelPermalink -}}
+  {{- $width = $avatar_image.Width -}}
+  {{- $height = $avatar_image.Height -}}
+{{- end -}}
+{{- if $link -}}<a href="{{ $link }}">{{- end -}}
+{{- if $src -}}
+  <img width="{{ $width }}" height="{{ $height }}" loading="lazy" class="{{ $classes }}" src="{{ $src }}" alt="{{ $author_page.Title }}">
+{{- else -}}
+  <div class="{{ $classes }} avatar-placeholder" aria-label="{{ $author_page.Title }}">
+    <span class="avatar-initials">{{ partial "functions/get_initials" (dict "name" $author_page.Title) }}</span>
+  </div>
+{{- end -}}
+{{- if $link -}}</a>{{- end -}}
