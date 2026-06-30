@@ -29,5 +29,3 @@
 - [ ] Prevent the `Cite` modal from serving stale cached `cite.bib` content
   during local editing; the direct `cite.bib` URL updates correctly, but the
   popup can show an older cached response.
-- [ ] Fix the `Copy` button in the `Cite` modal so it copies plain BibTeX text
-  rather than the modal's HTML markup (`<pre><code>...</code></pre>`).

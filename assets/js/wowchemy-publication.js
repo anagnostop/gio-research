@@ -134,14 +134,18 @@ document.addEventListener('DOMContentLoaded', function () {
     e.preventDefault();
     let filename = $(this).attr('data-filename');
     let modal = $('#modal');
-    modal.find('.modal-body code').load(filename, function (response, status, xhr) {
-      if (status == 'error') {
+    let code = modal.find('.modal-body code');
+    $('#modal-error').empty();
+    code.text('');
+    $.get(filename)
+      .done(function (response) {
+        code.text(response);
+        $('.js-download-cite').attr('href', filename);
+      })
+      .fail(function (xhr) {
         let msg = 'Error: ';
         $('#modal-error').html(msg + xhr.status + ' ' + xhr.statusText);
-      } else {
-        $('.js-download-cite').attr('href', filename);
-      }
-    });
+      });
     modal.modal('show');
   });
 
@@ -149,7 +153,7 @@ document.addEventListener('DOMContentLoaded', function () {
   $('.js-copy-cite').click(function (e) {
     e.preventDefault();
     // Get text to copy.
-    let citation = document.querySelector('#modal .modal-body').innerHTML;
+    let citation = document.querySelector('#modal .modal-body code').textContent;
     navigator.clipboard
       .writeText(citation)
       .then(function () {
