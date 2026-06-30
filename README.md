@@ -115,6 +115,20 @@ Do not commit large video binaries directly to the repository. GitHub rejects
 files larger than 100 MB. Prefer external hosting or another delivery method
 for large media assets.
 
+### Post featured images
+
+For new post featured images, use these conventions:
+
+- preferred canvas: `1920 x 1130`
+- preferred aspect ratio: approximately `1.699:1`
+- use `JPG` for photographic images
+- use `PNG` for graphics, logos, or text-heavy visuals
+- keep important content near the central `70–80%` of the image width so that
+  Hugo-generated crops remain usable in list and thumbnail views
+
+Most existing posts already follow the `1920 x 1130` convention, so new images
+should match it unless there is a specific reason not to.
+
 ## Deployment safety
 
 Netlify builds `main` using the command and Hugo version in `netlify.toml`.
