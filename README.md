@@ -43,6 +43,12 @@ Start a local development server:
 ./.tools/bin/hugo server
 ```
 
+If local rendering appears stale, restart the server with cache disabled:
+
+```bash
+./.tools/bin/hugo server --ignoreCache
+```
+
 The initial bootstrap requires access to the official Hugo GitHub release.
 After that, builds work without network access.
 
@@ -62,6 +68,52 @@ A small number of service-backed features are documented in
 `docs/external-services.md`.
 
 For a concise day-to-day maintenance checklist, see `docs/maintenance.md`.
+
+## Content and team conventions
+
+### People page groups
+
+The "Meet the Team" page is configured in `content/people/people.md`.
+
+- The `content.user_groups` list defines the section labels and display order.
+- Each author profile in `content/authors/<slug>/_index.md` declares one or
+  more matching `user_groups`.
+- The strings must match exactly for a person to appear in a section.
+- Empty groups do not render.
+
+Current intended meanings:
+
+- `Lead`: group lead / PI.
+- `Researchers`: current degree-seeking research mentees.
+- `Contributors`: current non-degree contributors to the group.
+- `Alumni`: former degree-seeking research mentees.
+- `Past Contributors`: former non-degree contributors to the group.
+
+### Author slugs in content
+
+When a person has an author profile under `content/authors/<slug>/`, prefer
+using that slug in front matter fields such as publication `authors:` rather
+than a plain-text name. This enables profile linking and profile-based content
+aggregation.
+
+### Author photos
+
+Author headshots should follow these conventions:
+
+- square image
+- preferred size around `1200 x 1200`
+- plain white or slightly off-white background
+- evenly lit, head-and-shoulders framing
+- modest file size (generally well under 1 MB)
+
+If an author has no `avatar.*` image resource, the site now shows an initials
+fallback automatically.
+
+### Large media files
+
+Do not commit large video binaries directly to the repository. GitHub rejects
+files larger than 100 MB. Prefer external hosting or another delivery method
+for large media assets.
 
 ## Deployment safety
 
