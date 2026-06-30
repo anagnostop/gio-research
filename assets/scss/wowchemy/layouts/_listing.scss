@@ -81,11 +81,13 @@
   }
 
   .view-post-list .post-list-thumb {
+    display: block;
     margin-right: 0 !important;
     margin-bottom: 0.75rem;
   }
 
-  .view-post-list img {
+  .media.stream-item.view-post-list img {
+    display: block;
     width: 100%;
     max-width: 100%;
     height: auto;
