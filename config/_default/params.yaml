@@ -59,6 +59,8 @@ locale:
 
 # Site features
 
+sharing: false
+
 features:
   syntax_highlighter:
     enable: false
