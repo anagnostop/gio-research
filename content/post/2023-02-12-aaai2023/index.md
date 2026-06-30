@@ -35,6 +35,6 @@ projects: ["socialsim"]
 
 The presented work studies how to predict user engagement in information cascades, such as whether users will react to, share, or otherwise participate in the spread of online content. The paper introduces DANTE, a discriminative probabilistic model based on split-population multivariate survival processes. Unlike approaches that require separate models for different observation periods or forecast horizons, DANTE provides a single interpretable framework for making anytime predictions from partially observed cascades. This is significant because such forecasts can support applications in social-media analytics, online marketing, and misinformation mitigation, while also providing principled uncertainty estimates for predicted engagement counts.
 
-Both Aravamudan and Zhang received [AAAI](https://aaai.org/) travel scholarships to attend the conference. Congratulations to Akshay and Xi on representing our group at AAAI 2023!
+Both Aravamudan and Zhang received travel scholarships from [AAAI](https://aaai.org/) to attend the conference. Congratulations to Akshay and Xi on representing our group at AAAI 2023!
 
 {{< publication slug="aravamudan2023" >}}

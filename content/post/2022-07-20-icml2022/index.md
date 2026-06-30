@@ -17,7 +17,7 @@ share: true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Aksay Aravamudan and Xi Zhang at ICML 2022 in Baltimore, MD."
+  caption: "Akshay Aravamudan and Xi Zhang at ICML 2022 in Baltimore, MD."
   focal_point: ""
   preview_only: false
 
@@ -29,7 +29,7 @@ image:
 projects: ["socialsim"]
 ---
 
-**Jul 20, 2022.** MLRG members Xi Zhang and Akshay Aravamudan attended the 39th International Conference on Machine Learning ([ICML 2022](https://icml.cc/Conferences/2022)) held in Baltimore, MD, during July 17–23, 2022. There, Zhang presented the group's paper titled "*Anytime Information Cascade Popularity Prediction via Self-Exciting Processes*."
+**Jul 20, 2022.** MLRG members Xi Zhang and Akshay Aravamudan attended the 39th International Conference on Machine Learning ([ICML 2022](https://icml.cc/Conferences/2022)), held in Baltimore, MD, during July 17–23, 2022. There, Zhang presented the group's paper titled "*Anytime Information Cascade Popularity Prediction via Self-Exciting Processes*."
 
 <!--more-->
 
