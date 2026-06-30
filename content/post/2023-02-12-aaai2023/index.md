@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "MLRG Presents at AAAI 2023"
-subtitle: "Akshay Aravamudan presented MLRG’s work on anytime user engagement prediction in information cascades at AAAI 2023"
-summary: "Akshay Aravamudan presented MLRG’s work on anytime user engagement prediction in information cascades at AAAI 2023"
+subtitle: "Akshay Aravamudan presented MLRG’s work on anytime user engagement prediction in information cascades at AAAI 2023."
+summary: "Akshay Aravamudan presented MLRG’s work on anytime user engagement prediction in information cascades at AAAI 2023."
 authors: [admin]
 tags: []
 categories: []
