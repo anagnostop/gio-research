@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Our Group at AAAI 2023"
-subtitle: "Akshay Aravamudan & Xi Zhang attend and present at AAAI 2032 in Washington, DC."
-summary: "Akshay Aravamudan & Xi Zhang attend and present at AAAI 2032 in Washington, DC."
+subtitle: "Akshay Aravamudan & Xi Zhang attend and present at AAAI 2023 in Washington, DC."
+summary: "Akshay Aravamudan & Xi Zhang attend and present at AAAI 2023 in Washington, DC."
 authors: [admin]
 tags: []
 categories: []
