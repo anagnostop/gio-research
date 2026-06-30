@@ -4,11 +4,13 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest Posts
+title: Latest News
 subtitle:
 
 content:
   count: 5
+  archive:
+    text: All News
   filters:
     author: ''
     category: ''

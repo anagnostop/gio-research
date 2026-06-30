@@ -24,6 +24,6 @@ Welcome to our Machine Learning Research Group!
 
 Based at Florida Institute of Technology in Melbourne ([FIT](https://www.fit.edu)), Florida, USA, our group conducts research in foundational and applied artificial intelligence and machine learning. We develop statistical, probabilistic, and data-centric methods for understanding complex phenomena and supporting real-world decision making.
 
-Here you can learn about us, our research directions, publications, and recent group activities.
+This site highlights our [people](/people/), [research projects](/research/), [publications](/publication/), and selected [news](/post/) from the group.
 
 <br>
