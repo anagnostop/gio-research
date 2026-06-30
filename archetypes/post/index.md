@@ -5,6 +5,8 @@ title: "{{ replace .Name "-" " " | title }}"
 subtitle: ""
 summary: ""
 authors: []
+# Optional list of profile slugs referenced by this post.
+people: []
 tags: []
 categories: []
 date: {{ .Date }}

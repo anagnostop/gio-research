@@ -12,23 +12,57 @@
 <section id="profile-page" class="pt-5">
   <div class="container">
     {{/* Show the About widget if an account exists for this user. */}}
+    {{ $username := "" }}
     {{ if .File }}
       {{ $widget := "widgets/about.html" }}
-      {{ $username := (path.Base .File.Dir) }}{{/* Alternatively, use `index .Params.authors 0` */}}
+      {{ $username = (path.Base .File.Dir) }}{{/* Alternatively, use `index .Params.authors 0` */}}
       {{ $params := dict "root" $ "page" . "author" $username }}
       {{ partial $widget $params }}
     {{end}}
 
-    {{ $query := where .Pages ".IsNode" false }}
-    {{ $count := len $query }}
-    {{ if $count }}
+    {{ $recent_posts_years := 0 }}
+    {{ with .Params.recent_posts_years }}
+      {{ $recent_posts_years = int . }}
+    {{ end }}
+
+    {{ $recent_publications_years := 0 }}
+    {{ with .Params.recent_publications_years }}
+      {{ $recent_publications_years = int . }}
+    {{ end }}
+
+    {{ $recent_posts := slice }}
+    {{ if and $username (gt $recent_posts_years 0) }}
+      {{ $posts_year_offset := mul $recent_posts_years -1 | int }}
+      {{ $posts_cutoff := now.AddDate $posts_year_offset 0 0 }}
+      {{ $authored_posts := where (where (where site.RegularPages "Type" "post") "Date" "ge" $posts_cutoff) "Params.authors" "intersect" (slice $username) }}
+      {{ $referenced_posts := where (where (where site.RegularPages "Type" "post") "Date" "ge" $posts_cutoff) "Params.people" "intersect" (slice $username) }}
+      {{ $recent_posts = sort ($authored_posts | union $referenced_posts) "Date" "desc" }}
+    {{ end }}
+
+    {{ if gt (len $recent_posts) 0 }}
     <div class="article-widget content-widget-hr">
-      <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
+      <h3>Recent posts</h3>
       <ul>
-        {{ range $query }}
-        <li>
-          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        </li>
+        {{ range $recent_posts }}
+          {{ partial "views/author_profile_item" (dict "item" . "kind" "post") }}
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+
+    {{ $recent_publications := slice }}
+    {{ if and $username (gt $recent_publications_years 0) }}
+      {{ $publications_year_offset := mul $recent_publications_years -1 | int }}
+      {{ $publications_cutoff := now.AddDate $publications_year_offset 0 0 }}
+      {{ $recent_publications = sort (where (where (where site.RegularPages "Type" "publication") "Date" "ge" $publications_cutoff) "Params.authors" "intersect" (slice $username)) "Date" "desc" }}
+    {{ end }}
+
+    {{ if gt (len $recent_publications) 0 }}
+    <div class="article-widget content-widget-hr">
+      <h3>Publications</h3>
+      <ul>
+        {{ range $recent_publications }}
+          {{ partial "views/author_profile_item" (dict "item" . "kind" "publication") }}
         {{ end }}
       </ul>
     </div>

@@ -63,6 +63,11 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
+# Optional profile-page windows in years.
+# Omit either field to disable that section.
+recent_posts_years:
+recent_publications_years:
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:

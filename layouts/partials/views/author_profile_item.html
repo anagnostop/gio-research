@@ -1,0 +1,32 @@
+{{ $item := .item }}
+{{ $kind := .kind | default $item.Type }}
+{{ $link := $item.RelPermalink }}
+{{ $target := "" }}
+{{ if $item.Params.external_link }}
+  {{ $link = $item.Params.external_link }}
+  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+{{ end }}
+
+<li>
+  <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+  {{ if eq $kind "publication" }}
+    {{ $venue := $item.Params.publication_short | default $item.Params.publication }}
+    {{ $year := "" }}
+    {{ with $item.Date }}
+      {{ $year = string .Year }}
+    {{ end }}
+    {{ $venue_plain := "" }}
+    {{ with $venue }}
+      {{ $venue_plain = . | markdownify | plainify }}
+    {{ end }}
+    {{ $venue_display := $venue_plain }}
+    {{ if $venue_plain }}
+      {{ $venue_display = replaceRE "[[:space:]]+[0-9]{4}$" "" $venue_plain }}
+    {{ end }}
+    {{ if or $venue $year }}
+      <span>
+        —{{ with $venue_display }} {{ . }}{{ end }}{{ if and $venue_display $year }},{{ end }}{{ with $year }} {{ . }}{{ end }}
+      </span>
+    {{ end }}
+  {{ end }}
+</li>

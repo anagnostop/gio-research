@@ -149,6 +149,18 @@ collections:
         name: "superuser"
         widget: "boolean"
         default: false
+      - label: "Recent posts window (years)"
+        name: "recent_posts_years"
+        required: false
+        widget: "number"
+        value_type: int
+        min: 1
+      - label: "Recent publications window (years)"
+        name: "recent_publications_years"
+        required: false
+        widget: "number"
+        value_type: int
+        min: 1
       - label: "User groups (only for organization websites)"
         name: "user_groups"
         required: false
@@ -178,6 +190,10 @@ collections:
         required: false
       - label: "Authors"
         name: "authors"
+        required: false
+        widget: "list"
+      - label: "Referenced people"
+        name: "people"
         required: false
         widget: "list"
       - label: "Tags"
