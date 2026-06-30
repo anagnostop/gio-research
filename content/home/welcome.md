@@ -20,10 +20,10 @@ design:
 
 <br>
 
-Welcome to the new website of our **machine learning research group**. 
+Welcome to our Machine Learning Research Group!
 
-We are part of the Center for Advanced Data Analytics & Systems ([CADAS](https://cadas.fit.edu)) of Florida Institute of Technology ([FIT](https://www.fit.edu); also known as Florida Tech) in Melbourne, Florida, US. 
+Based at Florida Institute of Technology in Melbourne ([FIT](https://www.fit.edu)), Florida, USA, our group conducts research in foundational and applied artificial intelligence and machine learning. We develop statistical, probabilistic, and data-centric methods for understanding complex phenomena and supporting real-world decision making.
 
-Find out about who we are and what we do!
+Here you can learn about us, our research directions, publications, and recent group activities.
 
 <br>
