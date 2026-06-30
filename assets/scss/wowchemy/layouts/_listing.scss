@@ -59,6 +59,30 @@
   }
 }
 
+.view-post-list {
+  align-items: flex-start;
+}
+
+.view-post-list .post-list-thumb {
+  flex: 0 0 auto;
+}
+
+.view-post-list img {
+  width: 240px;
+  max-width: 240px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 0.25rem;
+}
+
+@media screen and (max-width: 768px) {
+  .view-post-list img {
+    width: 110px;
+    max-width: 110px;
+    height: 82px;
+  }
+}
+
 // TODO: refactor HTML to prevent duplicate nested `article-metadata` class from
 //  li_compact.html > {{partial "page_metadata" ... }}
 .stream-meta.article-metadata .article-metadata {
