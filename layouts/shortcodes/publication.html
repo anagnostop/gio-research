@@ -1,0 +1,16 @@
+{{ $slug := .Get "slug" }}
+{{ if not $slug }}
+  {{ errorf "Shortcode 'publication' requires a 'slug' parameter in %s" .Page.File.Path }}
+{{ end }}
+
+{{ $title := .Get "title" | default "Related publication(s)" }}
+{{ $publication := site.GetPage (printf "publication/%s" $slug) }}
+
+{{ if not $publication }}
+  {{ errorf "Shortcode 'publication' could not find publication slug '%s' in %s" $slug .Page.File.Path }}
+{{ end }}
+
+<div class="related-publication-block">
+  <h3>{{ $title }}</h3>
+  {{ partial "functions/render_view" (dict "page" .Page "item" $publication "view" "citation") }}
+</div>

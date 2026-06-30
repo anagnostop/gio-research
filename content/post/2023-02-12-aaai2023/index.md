@@ -35,3 +35,5 @@ projects: []
 <!--more-->
 
 At the conference, Aravamudan will be presenting his work titled "*Anytime User Engagement Prediction in Information Cascades for Arbitrary Observation Periods*". Both Aravamudan and Zhang were recipients of travel scholarships provided by the Association for the Advancement of Artificial Intelligence ([AAAI](https://aaai.org/)) to attend this venue.
+
+{{< publication slug="aravamudan2023" >}}
