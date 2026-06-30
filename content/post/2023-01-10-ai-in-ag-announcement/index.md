@@ -26,7 +26,6 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# GCA: If associated to a project, the post will appear twice on the project page.
 projects: []
 ---
 
@@ -38,4 +37,3 @@ Check out my relevant LinkedIn post below :wink: .
 
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7018620975369916416" allowfullscreen="" title="Embedded post" width="100%" height="979" frameborder="0"></iframe>
-
