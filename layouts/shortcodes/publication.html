@@ -3,6 +3,7 @@
   {{ errorf "Shortcode 'publication' requires a 'slug' parameter in %s" .Page.File.Path }}
 {{ end }}
 
+{{ $showHeading := ne (.Get "show_heading") "false" }}
 {{ $title := .Get "title" | default "Related publication(s)" }}
 {{ $publication := site.GetPage (printf "publication/%s" $slug) }}
 
@@ -11,6 +12,8 @@
 {{ end }}
 
 <div class="related-publication-block">
-  <h3>{{ $title }}</h3>
+  {{ if $showHeading }}
+    <h3>{{ $title }}</h3>
+  {{ end }}
   {{ partial "functions/render_view" (dict "page" .Page "item" $publication "view" "citation") }}
 </div>
