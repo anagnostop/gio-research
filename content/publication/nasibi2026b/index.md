@@ -21,7 +21,7 @@ categories: []
 featured: false
 
 url_pdf: https://ipwg12.imgw.pl/wp-content/uploads/2026/06/IPWG2026_1.pdf
-url_publication:
+url_publication: https://ipwg12.imgw.pl/program/
 url_code:
 url_dataset:
 url_poster:
