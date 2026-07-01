@@ -30,7 +30,7 @@ image:
 projects: []
 ---
 
-**Dec 14, 2024.** MLRG congratulates Dr. Xi Zhang on graduating with her Ph.D. in Electrical Engineering from Florida Tech this December.
+**Dec 14, 2024.** MLRG congratulates Dr. {{% mention "xi-zhang" %}} on graduating with her Ph.D. in Electrical Engineering from Florida Tech this December.
 
 <!--more-->
 
@@ -47,4 +47,3 @@ Together, these contributions reflect Zhang’s rigorous and creative approach t
 It has been a privilege to witness Xi’s growth into a thoughtful, capable, and independent researcher. MLRG is proud of her accomplishments and wishes her continued success in the next stage of her career.
 
 Congratulations, Dr. Zhang!
-

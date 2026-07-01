@@ -29,7 +29,7 @@ image:
 projects: []
 ---
 
-**Oct 28, 2022.** MLRG member Xi Zhang will give a talk, titled ``Information Cascade Popularity Prediction in Social Media: A Predictive Point Process Approach'' at FIT's Computer Science Seminar. It is based on her recent work on anytime information cascade popularity prediction ([zhang2022]({{<relref "/publication/zhang2022">}})).
+**Oct 28, 2022.** MLRG member {{% mention "xi-zhang" %}} will give a talk, titled ``Information Cascade Popularity Prediction in Social Media: A Predictive Point Process Approach'' at FIT's Computer Science Seminar. It is based on her recent work on anytime information cascade popularity prediction ([zhang2022]({{<relref "/publication/zhang2022">}})).
 
 <!--more-->
 

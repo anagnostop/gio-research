@@ -34,7 +34,7 @@ projects: []
 
 <!--more-->
 
-The presentation, titled "Flood prediction in ungauged basins with machine learning and satellite precipitation data," was based on joint work by Zimeena Rasheed, Akshay Aravamudan, Xi Zhang, Georgios C. Anagnostopoulos, and Efthymios I. Nikolopoulos. The work addressed the challenge of predicting floods in ungauged basins, where limited ground-based precipitation and streamflow observations make hydrologic forecasting especially difficult.
+The presentation, titled "Flood prediction in ungauged basins with machine learning and satellite precipitation data," was based on joint work by Zimeena Rasheed, {{% mention "akshay-aravamudan" %}}, {{% mention "xi-zhang" %}}, {{% mention "admin" %}}, and Efthymios I. Nikolopoulos. The work addressed the challenge of predicting floods in ungauged basins, where limited ground-based precipitation and streamflow observations make hydrologic forecasting especially difficult.
 
 The study investigated how machine learning models, combined with satellite precipitation estimates from NASA IMERG, can support flood prediction in regions with limited in situ observations. The team trained machine learning models using data from hundreds of catchments in the contiguous United States and evaluated their transferability to catchments in other regions, including Brazil, the United Kingdom, Chile, and Australia.
 

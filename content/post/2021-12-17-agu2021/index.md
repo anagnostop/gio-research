@@ -34,7 +34,7 @@ projects: ["siddis"]
 
 <!--more-->
 
-The presentation, titled "Deep Residual Downscaling of Remote Sensing Imagery for Flood Hazard Assessment," was based on joint work by Akshay Aravamudan, Zimeena Rasheed, Xi Zhang, Georgios C. Anagnostopoulos, Witold F. Krajewski, and Efthymios I. Nikolopoulos. The work was connected to the SIDDIS project, an interdisciplinary collaboration between MLRG and Dr. Nikolopoulos’s Hydrology & Remote Sensing group.
+The presentation, titled "Deep Residual Downscaling of Remote Sensing Imagery for Flood Hazard Assessment," was based on joint work by {{% mention "akshay-aravamudan" %}}, Zimeena Rasheed, {{% mention "xi-zhang" %}}, {{% mention "admin" %}}, Witold F. Krajewski, and Efthymios I. Nikolopoulos. The work was connected to the SIDDIS project, an interdisciplinary collaboration between MLRG and Dr. Nikolopoulos’s Hydrology & Remote Sensing group.
 
 This pilot study explored how deep learning can be used to downscale low-resolution flood inundation maps into higher-resolution products that are more useful for flood hazard assessment. Specifically, the team investigated Residual Dense Network architectures for converting coarse 300-meter flood inundation maps into 30-meter maps, using simulated data for the state of Iowa. The approach also incorporated topographic information derived from digital elevation maps, including horizontal and vertical distance to the nearest drainage, to improve downscaling fidelity.
 

@@ -30,7 +30,7 @@ image:
 projects: []
 ---
 
-**Apr 18, 2023.** MLRG member Xi Zhang presented the group’s work titled "*Flood Inundation Meets Image Super-Resolution*" at the conference *AI in Agriculture: Innovation and Discovery to Equitably Meet Producer Needs and Perceptions* (AI in Ag 2023), held in Orlando, Florida.
+**Apr 18, 2023.** MLRG member {{% mention "xi-zhang" %}} presented the group’s work titled "*Flood Inundation Meets Image Super-Resolution*" at the conference *AI in Agriculture: Innovation and Discovery to Equitably Meet Producer Needs and Perceptions* (AI in Ag 2023), held in Orlando, Florida.
 
 <!--more-->
 

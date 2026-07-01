@@ -30,7 +30,7 @@ image:
 projects: []
 ---
 
-**Apr 1, 2025.** MLRG member Akshay Aravamudan successfully defended his doctoral dissertation on Tuesday, April 1, 2025, earning his Ph.D. in Computer Engineering. Aravamudan delivered an outstanding defense and successfully completed this important milestone.
+**Apr 1, 2025.** MLRG member {{% mention "akshay-aravamudan" %}} successfully defended his doctoral dissertation on Tuesday, April 1, 2025, earning his Ph.D. in Computer Engineering. Aravamudan delivered an outstanding defense and successfully completed this important milestone.
 
 <!--more-->
 

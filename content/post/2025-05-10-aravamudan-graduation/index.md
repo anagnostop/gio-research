@@ -30,7 +30,7 @@ image:
 projects: []
 ---
 
-**May 10, 2025.** MLRG congratulates Dr. Akshay Aravamudan on graduating with his Ph.D. in Computer Engineering from Florida Tech on Saturday, May 10, 2025.
+**May 10, 2025.** MLRG congratulates Dr. {{% mention "akshay-aravamudan" %}} on graduating with his Ph.D. in Computer Engineering from Florida Tech on Saturday, May 10, 2025.
 
 <!--more-->
 

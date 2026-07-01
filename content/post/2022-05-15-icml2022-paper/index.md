@@ -29,7 +29,7 @@ image:
 projects: []
 ---
 
-**May 15, 2022.** A paper by our group, led by Xi Zhang, has been accepted for presentation at the 39th International Conference on Machine Learning ([ICML 2022](https://icml.cc/Conferences/2022)), which will be held in Baltimore, MD, during July 17-23, 2022.
+**May 15, 2022.** A paper by our group, led by {{% mention "xi-zhang" %}}, has been accepted for presentation at the 39th International Conference on Machine Learning ([ICML 2022](https://icml.cc/Conferences/2022)), which will be held in Baltimore, MD, during July 17-23, 2022.
 
 <!--more-->
 

@@ -30,7 +30,7 @@ image:
 projects: ["servir"]
 ---
 
-**Dec 21, 2025.** We are pleased to welcome Prerak Patel to our research group.
+**Dec 21, 2025.** We are pleased to welcome {{% mention "prerak-patel" %}} to our research group.
 
 <!--more-->
 

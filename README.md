@@ -96,6 +96,17 @@ using that slug in front matter fields such as publication `authors:` rather
 than a plain-text name. This enables profile linking and profile-based content
 aggregation.
 
+In post and page body text, when linking to an internal person profile, prefer
+the explicit mention shortcode on the first meaningful mention rather than
+repeating links throughout the prose:
+
+```markdown
+{{% mention "xi-zhang" %}}
+```
+
+Use the `people:` front matter field for content association and aggregation;
+it does not automatically hyperlink names in the body text.
+
 ### Author photos
 
 Author headshots should follow these conventions:

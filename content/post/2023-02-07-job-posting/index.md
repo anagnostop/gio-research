@@ -62,7 +62,7 @@ Finally, please note that
  
 **How To Apply**
 
-Before applying to any of the aforementioned doctoral programs, please email the group's lead, Dr. Georgios C. Anagnostopoulos (georgio@fit.edu) the following artifacts in PDF format:
+Before applying to any of the aforementioned doctoral programs, please email the group's lead, Dr. {{% mention "admin" %}} (georgio@fit.edu) the following artifacts in PDF format:
 
 - Transcripts (unofficial are acceptable) in English.
 - A current CV/resume.

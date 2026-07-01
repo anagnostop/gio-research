@@ -30,7 +30,7 @@ image:
 projects: []
 ---
 
-**Jan 2023.** MLRG congratulates Xi Zhang on being recognized as a top-10% reviewer for the 2023 International Conference on Artificial Intelligence and Statistics (AISTATS 2023).
+**Jan 2023.** MLRG congratulates {{% mention "xi-zhang" %}} on being recognized as a top-10% reviewer for the 2023 International Conference on Artificial Intelligence and Statistics (AISTATS 2023).
 
 <!--more-->
 

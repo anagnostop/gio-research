@@ -30,7 +30,7 @@ image:
 projects: []
 ---
 
-**Nov 19, 2024.** MLRG member Xi Zhang successfully defended her doctoral dissertation on Tuesday, November 19, 2024, earning her Ph.D. in Electrical Engineering. Zhang delivered an excellent defense and passed with flying colors.
+**Nov 19, 2024.** MLRG member {{% mention "xi-zhang" %}} successfully defended her doctoral dissertation on Tuesday, November 19, 2024, earning her Ph.D. in Electrical Engineering. Zhang delivered an excellent defense and passed with flying colors.
 
 <!--more-->
 

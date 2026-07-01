@@ -29,7 +29,7 @@ image:
 projects: []
 ---
 
-**Nov 22, 2022.** Florida Tech News ran today an article about our group's work -- spearheaded by Xi Zhang -- on anytime information cascade popularity prediction ([zhang2022]({{<relref "/publication/zhang2022">}})). The direct link to the article is [here](https://news.fit.edu/academics-research/university-study-examines-viral-probability-of-social-media-posts/).
+**Nov 22, 2022.** Florida Tech News ran today an article about our group's work -- spearheaded by {{% mention "xi-zhang" %}} -- on anytime information cascade popularity prediction ([zhang2022]({{<relref "/publication/zhang2022">}})). The direct link to the article is [here](https://news.fit.edu/academics-research/university-study-examines-viral-probability-of-social-media-posts/).
 
 <!--more-->
 
@@ -40,5 +40,4 @@ projects: []
 
 <br>
 <br>
-
 

@@ -29,7 +29,7 @@ image:
 projects: ["socialsim"]
 ---
 
-**Feb 12, 2023.** MLRG members Akshay Aravamudan and Xi Zhang attended the 37th AAAI Conference on Artificial Intelligence ([AAAI 2023](https://aaai-23.aaai.org)), held in Washington, DC, during February 7–14, 2023. At the conference, Aravamudan presented the group’s work titled "*Anytime User Engagement Prediction in Information Cascades for Arbitrary Observation Periods*."
+**Feb 12, 2023.** MLRG members {{% mention "akshay-aravamudan" %}} and {{% mention "xi-zhang" %}} attended the 37th AAAI Conference on Artificial Intelligence ([AAAI 2023](https://aaai-23.aaai.org)), held in Washington, DC, during February 7–14, 2023. At the conference, Aravamudan presented the group’s work titled "*Anytime User Engagement Prediction in Information Cascades for Arbitrary Observation Periods*."
 
 <!--more-->
 
