@@ -15,13 +15,9 @@
 
 - [ ] Ask Malihe Nasibi to provide presentation slides and/or poster for 
   `nasibi2026` and `nasibi2026b`.
-- [ ] Ask Akshay Aravamudan to share his slides for `aravamudan2019`.
 - [ ] Ask Efthymios Nikolopoulos (or Danraj Lamichhane) for the slides of `lamichhane2024`.
-- [ ] Ask Efthymios Nikolopoulos for the slides of `nikolopoulos2024`.
-- [ ] Ask Humberto Vergara for the slides of `vergara2023`.
 - [ ] Ask David Nieves-Acaron for the slides of `nieves-acaron2021`.
 - [ ] Ask Adrian Peter for the slides of `mijatovic2019`.
-- [ ] I need to upload the slides for `sedghi2018`.
 - [ ] I need to upload the video for `aravamudan2023`.
 
 ## UI / frontend issues
