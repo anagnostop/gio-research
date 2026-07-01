@@ -86,7 +86,7 @@ user_groups:
 
 ### Short Introduction
 
-Xi Zhang received her Doctor of Electrical Engineering degree from Florida Institute of Technology in December 2024. Her research interests include statistical learning theory and applications of machine learning in social media, cybersecurity, and the Earth sciences. After graduation, she joined the [Learning Systems Group](https://www.ornl.gov/group/learning-systems) at Oak Ridge National Laboratory in Oak Ridge, TN. You can follow her on [LinkedIn](https://www.linkedin.com/in/xi-zhang-018294b0/).
+Xi "CC" Zhang received her Doctor of Electrical Engineering degree from Florida Institute of Technology in December 2024. Her research interests include statistical learning theory and applications of machine learning in social media, cybersecurity, and the Earth sciences. After graduation, she joined the [Learning Systems Group](https://www.ornl.gov/group/learning-systems) at Oak Ridge National Laboratory in Oak Ridge, TN. You can follow her on [LinkedIn](https://www.linkedin.com/in/xi-zhang-018294b0/).
 
 
 ### Professional Service
