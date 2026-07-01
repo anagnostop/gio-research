@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Doctor of Electrical Engineering
+role: Doctor of Philosophy in Electrical Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -91,6 +91,7 @@ Xi Zhang received her Doctor of Electrical Engineering degree from Florida Insti
 
 ### Professional Service
 
+ - Recognized as a top-10% reviewer for the 2023 International Conference on Artificial Intelligence and Statistics (AISTATS 2023).
  - Reviewer for the following conferences: AISTATS 2021, ICML 2022 and NeurIPS 2022.
  - Reviewer for the following journals: IEEE Transactions on Cybernetics in 2021.
  - Volunteer for the following conferences: ICML 2021.

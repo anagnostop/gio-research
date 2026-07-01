@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Doctor of Computer Engineering
+role: Doctor of Philosophy in Computer Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -89,7 +89,7 @@ user_groups:
 
 ### Short Introduction
 
-Akshay Aravamudan received his Doctor of Computer Engineering degree from Florida Institute of Technology in April 2025. His research interests include machine learning, stochastic point processes for modeling information diffusion and influence in social media, machine learning for hydrology, and machine learning on the edge. During his doctoral studies, he was affiliated with Florida Tech's Center for Advanced Data Analytics & Systems ([CADAS](https://cadas.fit.edu)). He also earned his Master of Science in Computer Engineering from Florida Institute of Technology in July 2019, with a thesis focused on modeling information diffusion in social media using multivariate survival processes. After graduation, Akshay joined Amazon in Seattle, WA, as an Applied Scientist. More information is available on his [website](https://aaravamudan2014.github.io/Akshay-Aravamudan/), and he can be followed on [LinkedIn](https://www.linkedin.com/in/akshay-aravamudan-49a470b7/).
+Akshay Aravamudan received his Doctor of Computer Engineering degree from Florida Institute of Technology in April 2025. His research interests include machine learning, stochastic point processes for modeling information diffusion and influence in social media, machine learning for hydrology, and machine learning on the edge. During his doctoral studies, he was affiliated with Florida Tech's Center for Advanced Data Analytics & Systems ([CADAS](https://cadas.fit.edu)). He also earned his Master of Science in Computer Engineering from Florida Institute of Technology in July 2019, with a thesis focused on modeling information diffusion in social media using multivariate survival processes. After graduation, Akshay joined Amazon in Seattle, WA, as an Applied Scientist II. More information is available on his [website](https://aaravamudan2014.github.io/Akshay-Aravamudan/), and he can be followed on [LinkedIn](https://www.linkedin.com/in/akshay-aravamudan-49a470b7/).
 
 
 ### Professional Service
