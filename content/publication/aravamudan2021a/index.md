@@ -34,7 +34,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_publication:
+url_publication: https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/967205
 url_code:
 url_dataset:
 url_poster:

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Flood prediction in ungauged basins with machine learning and satellite precipitation data"
-authors: ["Zimeena Rasheed", akshay-aravamudan, xi-zhang, admin, "Efthymios I. Nikolopoulos"]
+authors: ["Zimeena Rasheed", akshay-aravamudan, admin, "Efthymios I. Nikolopoulos"]
 date: 2022-05-20T07:54:26-04:00
 doi: ""
 
@@ -34,7 +34,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_publication:
+url_publication: https://meetingorganizer.copernicus.org/EGU22/EGU22-10864.html
 url_code:
 url_dataset:
 url_poster: rasheed2022b_poster.png
