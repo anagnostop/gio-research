@@ -8,7 +8,7 @@ doi: ""
 
 publishDate: 2023-04-18T12:00:00-04:00
 
-publication_types: ["conference-paper"]
+publication_types: ["conference-abstract"]
 
 publication: "AI in Agriculture: Innovation and Discovery to Equitably Meet Producer Needs and Perceptions"
 publication_short: "AI in Ag 2023"
