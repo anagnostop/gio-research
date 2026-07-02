@@ -41,6 +41,15 @@ function initMap() {
         title: address,
       });
     } else {
+      const leafletMarkerIcon = L.icon({
+        iconUrl: '/vendor/leaflet/1.7.1/images/marker-icon.png',
+        iconRetinaUrl: '/vendor/leaflet/1.7.1/images/marker-icon.png',
+        shadowUrl: null,
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+      });
+
       let map = new L.map('map').setView([lat, lng], zoom);
       if (map_provider === 'mapbox' && api_key.length) {
         L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
@@ -58,7 +67,7 @@ function initMap() {
           attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
         }).addTo(map);
       }
-      let marker = L.marker([lat, lng]).addTo(map);
+      let marker = L.marker([lat, lng], {icon: leafletMarkerIcon}).addTo(map);
       let url = lat + ',' + lng + '#map=' + zoom + '/' + lat + '/' + lng + '&layers=N';
       marker.bindPopup(
         address +
