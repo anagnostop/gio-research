@@ -30,7 +30,7 @@ image:
 projects: ["servir"]
 ---
 
-**Dec 13, 2024.** MLRG contributed to two presentations at the American Geophysical Union Fall Meeting 2024 (AGU 2024), held in Washington, DC, during December 9–13, 2024. Both presentations were connected to the group’s joint NASA/SERVIR project on improving flash-flood monitoring and forecasting capabilities in West Africa.
+**Dec 13, 2024.** MLRG contributed to two presentations at the American Geophysical Union Fall Meeting 2024 ([AGU 2024](https://www.agu.org/annual-meeting-2024)), held in Washington, DC, during December 9–13, 2024. Both presentations were connected to the group’s joint NASA/SERVIR project on improving flash-flood monitoring and forecasting capabilities in West Africa.
 
 <!--more-->
 

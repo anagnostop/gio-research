@@ -30,7 +30,7 @@ image:
 projects: ["servir"]
 ---
 
-**Jul 7, 2026.** Malihe Nasibi presented NASA/SERVIR project-related work online at the 12th International Precipitation Working Group Workshop (IPWG 2026). The presentation, titled “Can Satellite Products be Used to Study Extreme Precipitation Trends across West Africa?,” was delivered on Tuesday, July 7, 2026.
+**Jul 7, 2026.** Malihe Nasibi presented NASA/SERVIR project-related work online at the 12th International Precipitation Working Group Workshop ([IPWG 2026](https://ipwg12.imgw.pl/)). The presentation, titled “Can Satellite Products be Used to Study Extreme Precipitation Trends across West Africa?,” was delivered on Tuesday, July 7, 2026.
 
 <!--more-->
 

@@ -30,7 +30,7 @@ image:
 projects: []
 ---
 
-**May 25, 2022.** Collaborative work involving MLRG members was presented at the European Geosciences Union General Assembly 2022 (EGU 2022), held in Vienna, Austria, and online during May 23–27, 2022.
+**May 25, 2022.** Collaborative work involving MLRG members was presented at the European Geosciences Union General Assembly 2022 ([EGU 2022](https://www.egu22.eu/)), held in Vienna, Austria, and online during May 23–27, 2022.
 
 <!--more-->
 

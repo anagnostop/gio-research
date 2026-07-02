@@ -29,7 +29,7 @@ image:
 projects: []
 ---
 
-**Jan 10, 2023.** I am very excited to be part of the 2023 AI-in-Ag Meeting to be held in Orlando, Florida, 17-19 April 2023. 
+**Jan 10, 2023.** I am very excited to be part of the [AI in Ag 2023](https://abe.ufl.edu/2023-ai-conference/) meeting to be held in Orlando, Florida, 17-19 April 2023. 
 
 <!--more-->
 

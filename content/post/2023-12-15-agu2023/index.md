@@ -30,7 +30,7 @@ image:
 projects: ["delaeine", "servir"]
 ---
 
-**Dec 15, 2023.** MLRG participated in the American Geophysical Union Fall Meeting 2023 (AGU 2023), held in San Francisco, CA, during December 11–15, 2023. The group contributed to two oral presentations highlighting machine learning applications in geophysical and hydrologic modeling.
+**Dec 15, 2023.** MLRG participated in the American Geophysical Union Fall Meeting 2023 ([AGU 2023](https://www.agu.org/fall-meeting-2023)), held in San Francisco, CA, during December 11–15, 2023. The group contributed to two oral presentations highlighting machine learning applications in geophysical and hydrologic modeling.
 
 <!--more-->
 

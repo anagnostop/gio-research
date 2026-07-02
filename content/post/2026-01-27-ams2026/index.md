@@ -30,7 +30,7 @@ image:
 projects: ["servir"]
 ---
 
-**Jan 2026.** Malihe Nasibi presented collaborative NASA/SERVIR project work at the 106th Annual Meeting of the American Meteorological Society (AMS 2026), held in Houston, TX, during January 25–29, 2026.
+**Jan 2026.** Malihe Nasibi presented collaborative NASA/SERVIR project work at the 106th Annual Meeting of the American Meteorological Society ([AMS 2026](https://annual.ametsoc.org/2026/)), held in Houston, TX, during January 25–29, 2026.
 
 <!--more-->
 

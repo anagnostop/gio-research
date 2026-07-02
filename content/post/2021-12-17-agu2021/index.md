@@ -30,7 +30,7 @@ image:
 projects: ["siddis"]
 ---
 
-**Dec 17, 2021.** MLRG presented collaborative work at the American Geophysical Union Fall Meeting 2021 (AGU 2021), held in New Orleans, LA, and online during December 13–17, 2021.
+**Dec 17, 2021.** MLRG presented collaborative work at the American Geophysical Union Fall Meeting 2021 ([AGU 2021](https://www.agu.org/Fall-Meeting-2021)), held in New Orleans, LA, and online during December 13–17, 2021.
 
 <!--more-->
 

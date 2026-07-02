@@ -30,7 +30,7 @@ image:
 projects: ["servir"]
 ---
 
-**Jan 31, 2024.** NASA/SERVIR project work on flash-flood forecasting in West Africa was presented at the 104th Annual Meeting of the American Meteorological Society (AMS 2024), held in Baltimore, MD, during January 28–February 1, 2024.
+**Jan 31, 2024.** NASA/SERVIR project work on flash-flood forecasting in West Africa was presented at the 104th Annual Meeting of the American Meteorological Society ([AMS 2024](https://annual.ametsoc.org/2024/)), held in Baltimore, MD, during January 28–February 1, 2024.
 
 <!--more-->
 
