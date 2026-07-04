@@ -4,3 +4,40 @@
 .article-style h2 {
   margin-top: 2rem;
 }
+
+// On the Research page, use a regular 2-column grid on desktop so project cards
+// have equal heights. Keep the default single-column/mobile behavior unchanged.
+@media (min-width: 769px) {
+  section#research .projects-container {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 20px;
+    height: auto !important;
+    overflow: visible;
+  }
+
+  section#research .project-card,
+  section#research .project-card.project-item {
+    position: static !important;
+    width: auto !important;
+    margin: 0 !important;
+    transform: none !important;
+  }
+
+  section#research .project-card .card {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+  }
+
+  section#research .project-card .card-image img {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+  }
+
+  section#research .project-card .card-text {
+    flex: 1 1 auto;
+  }
+}
