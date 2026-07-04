@@ -32,12 +32,12 @@ projects: []
 
 
 
-### Synopsis
+## Synopsis
  
 The capability of accurately differentiating seismic events along natural (e.g., stemming from earthquakes) and antrhopogenic (e.g., due to mining) causal boundaries is invaluable in both commercial/civilian and security/strategic contexts. Key challenging factors ahead of this goal are the unavoidable presence of noise, the unknown propagation path characteristics and, quite commonly, the seismic event's true cause, among several other factors. This interdisciplinary effort aspires to fuse bleeding-edge advances in deep learning together with a deep understanding of the physical processes undelrying seismic events and their propagation through the Earth's medium in order to attain unprecedented discrimination performance.
 
 
-### People
+## People
 
 This is a joint, interdisciplinary effort of our ML Research Group and geophysicits of ARRAY Information Technology ([ARRAY](https://arrayinfotech.com/)), an information technology & solutions company in Melbourne, FL, now part of [CGI, Inc.](https://www.cgi.com/us/en-us/federal). From FIT's side, the following individuals are involved:
 
@@ -50,7 +50,7 @@ This is a joint, interdisciplinary effort of our ML Research Group and geophysic
 
 
 
-### Support
+## Support
 
 Our efforts are supported through the following federal Small Business Innovation Research Program (SBIR) Phase II grant:
 
@@ -63,9 +63,8 @@ The grant fully supports de Castro Maia Junior, Aravamudan, Zhang and partially 
 
 
 
-### Outcomes
+## Outcomes
 
 We will be reporting outcomes of this project as they become available. 
-
 
 

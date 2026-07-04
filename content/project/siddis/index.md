@@ -32,7 +32,7 @@ projects: []
 ---
 
 
-### Synopsis
+## Synopsis
 
 Present trends in climate and land use change clearly point to an ever increasing flood risk that can lead to severe riverine and coastal flooding across the globe. Leveraging remote sensing imagery is key to estimating and predicting future flood inundation extents. Currently, though, long-term records of flood inundation observations from publicly-accessible imaging products are at a spatio-temporal resolution, whose coarsity significantly curtails their potential for high-accuracy predictions.
 
@@ -43,7 +43,7 @@ In the first phase of the project, we used synthetic low-resolution WFMs paired 
 Via thorough experimental comparisons, we were able to demonstrate the superiority of these deep neural networks and the usefulness of topographic features in enhancing our dowscaling results. Currently, we are in the process of compiling our experimental outcomes and observations and are preparing a publication of our findings. 
 
 
-### People
+## People
 
 This was a joint, interdisciplinary effort of our ML Research Group and the Hydrology & Remote Sensing ([HydroRes]((https://hydrores.com/))) group of Dr. Nikolopoulos.  
 
@@ -58,7 +58,7 @@ During the course of the project, Rasheed and Dr. Nikolopoulos were affiliated w
 
 
 
-### Support
+## Support
 
 The efforts of our interdisciplinary team were supported through FIT's College of Engineering & Sciences Institutional Research Incentive (IRI) Program through the following (internal) grants:
 
@@ -70,7 +70,7 @@ Both phases of the project partially supported doctoral students Aravamudan, Ras
 
 We also relied on high-performance computing support from Cheyenne [(doi:10.5065/D6RX99HX)](https://doi.org/10.5065/D6RX99HX) provided by NCAR’s Computational and Information Systems Laboratory ([CISL](https://www2.cisl.ucar.edu/)), sponsored by the National Science Foundation.
 
-### Outcomes
+## Outcomes
 
 This project gave us the opportunity to collaborate with the Iowa Flood Center ([IFC](https://iowafloodcenter.org/)) and its director and member of the National Academy of Engineering, Prof. [Witek Krajewski](https://iowafloodcenter.org/people/witek-krajewski-2/). It also presented itself as an opportunity to involve and engage Scarpignato, an undergraduate Biomedical Engineering student, into a valuable research experience.
 

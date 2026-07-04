@@ -15,7 +15,6 @@
 
 - [ ] Ask Malihe Nasibi to provide presentation slides and/or poster for 
   `nasibi2026` and `nasibi2026b`.
-- [ ] Ask David Nieves-Acaron for the slides of `nieves-acaron2021`.
 - [ ] Ask Adrian Peter for the slides of `mijatovic2019`.
 - [ ] I need to upload the video for `aravamudan2023`.
 

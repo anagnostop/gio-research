@@ -31,7 +31,7 @@ projects: []
 ---
 
 
-### Synopsis
+## Synopsis
 
 Bad faith actors routinely leverage the global information environment to further their agendas by manipulating public opinion, for example, via disinformation. Being able to accurately simulate the spread and evolution of information cascading through the online information domain, from the bottom-up and at-scale, would enhance our fundamental undestanding of the nature of the information diffusion phenomenon that emerges. Such understanding could facilitate, for example, the detection, analysis and countering of strategic disinformation campaigns, as well as determining effective approaches in broadcasting critical disaster relief information to local populations in need. [DARPA's](https://www.darpa.mil/) [SocialSim](https://www.darpa.mil/program/computational-simulation-of-online-social-behavior) program aimed at making breakthroughs along this direction.
 
@@ -41,7 +41,7 @@ Over the course of the project, the team pioneered two simulation models, namely
 
 
 
-### People
+## People
 
 The overall project's investigating team consisted of its 
 
@@ -65,7 +65,7 @@ Both  {{% mention "xi-zhang" %}} and  {{% mention "akshay-aravamudan" %}} from o
 
 
 
-### Support
+## Support
 
 Our MLRG's SocialSim-related efforts were supported by the following grant:
 
@@ -78,7 +78,7 @@ The project supported Zhang over its three-and-a-half year course.
 
 
 
-### Outcomes
+## Outcomes
 
 Overall our group produced or contributed to one poster presentation and four conference papers related to the SocialSim effort. It is worth mentioning that the work presented in [(zhang2020)]({{< relref "/publication/zhang2020" >}}) was selected for inclusion into a DARPA Information Innovation Office (I2O) briefing presented to the US Undersecretary of Defense for Research and Engineering in August in 2020.
 
