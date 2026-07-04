@@ -1,1 +1,6 @@
 // Override this file to add your own SCSS styling.
+
+// Add more breathing room before second-level headings in page/article content.
+.article-style h2 {
+  margin-top: 2rem;
+}
