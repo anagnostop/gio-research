@@ -41,3 +41,21 @@
     flex: 1 1 auto;
   }
 }
+
+// On the homepage, reduce the desktop footprint of Latest News cards while
+// preserving their proportions and leaving mobile unchanged.
+@media (min-width: 992px) {
+  section#news .col-12 {
+    max-width: 80%;
+  }
+
+  section#news .card-simple.view-card {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  section#news .card-simple.view-card .article-banner {
+    width: 100%;
+    height: auto;
+  }
+}
