@@ -17,9 +17,12 @@ organizations:
 bio: I lead the Machine Learning Research Group at FIT.
 
 interests:
-  - Machine Learning
-  - Artificial Intelligence
+  - Foundations of AI/ML
+  - Deep Learning
+  - Probabilistic Modeling
   - Optimization
+  - Earth Science AI
+  - Information Diffusion
 
 education:
   courses:
@@ -84,8 +87,7 @@ user_groups:
 
 ## Short Introduction
 
-Georgios C. Anagnostopoulos is an associate professor of Electrical & Computer Engineering at the Florida Institute of Technology ([FIT](https://www.fit.edu)) in Melbourne, Florida. His areas of expertise are __machine learning__, __modeling__ and __optimization__, while his current research interests include  modeling of information diffusion, deep learning, statistical learning theory and applications of machine learning in the earth sciences. He leads the Machine Learning Research Group at FIT and he is a member of FIT's Center for Advanced Data Analytics & Systems ([CADAS](https://cadas.fit.edu)). He is also an associate editor for the IEEE Transactions on Cybernetics ([IEEE TCyb](https://ieeesmc.org/publications/transactions-on-cybernetics/)) and a senior IEEE member since 2010. Anagnostopoulos is a native of [Patras](https://en.wikipedia.org/wiki/Patras), Greece.
-
+Georgios C. Anagnostopoulos is an associate professor in the [Department of Electrical Engineering and Computer Science](https://www.fit.edu/electrical-engineering-and-computer-science/) at the Florida Institute of Technology ([FIT](https://www.fit.edu)) in Melbourne, Florida, where he leads the [Machine Learning Research Group](https://gio-research.ai/). His research focuses on the foundations of AI/ML, probabilistic modeling, deep learning, optimization, Earth-science AI, and information diffusion. His work bridges foundational machine learning and applied AI for scientific and societal challenges, including hydroclimatic extremes, forecasting, and the modeling of complex information environments. He is an IEEE Senior Member. Anagnostopoulos is a native of [Patras](https://en.wikipedia.org/wiki/Patras), Greece.
 
 ---
 
