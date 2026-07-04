@@ -26,7 +26,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [siddis]
 ---
 
 **Jan 10, 2023.** I am very excited to be part of the [AI in Ag 2023](https://abe.ufl.edu/2023-ai-conference/) meeting to be held in Orlando, Florida, 17-19 April 2023. 
