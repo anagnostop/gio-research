@@ -16,24 +16,24 @@
       {{ $page := . }}
       {{ $project := .File.ContentBaseName }}
 
-      {{ $items := where (where site.RegularPages "Type" "post") ".Params.projects" "intersect" (slice $project) }}
-      {{ $count := len $items }}
-      {{ if ge $count 1 }}
-        <h2>{{ (i18n "posts") }}</h2>
+      {{ $items := where (where site.RegularPages "Type" "publication") ".Params.projects" "intersect" (slice $project) }}
+      {{ $pubs_len := len $items }}
+      {{ if ge $pubs_len 1 }}
+        <h2>Publications & Talks</h2>
         <ul>
           {{ range $items }}
-            {{ partial "views/author_profile_item" (dict "item" . "kind" "post") }}
+            {{ partial "views/author_profile_item" (dict "item" . "kind" "publication") }}
           {{ end }}
         </ul>
       {{ end }}
 
-      {{ $items := where (where site.RegularPages "Type" "publication") ".Params.projects" "intersect" (slice $project) }}
-      {{ $pubs_len := len $items }}
-      {{ if ge $pubs_len 1 }}
-        <h2>{{ (i18n "publications") }}</h2>
+      {{ $items := where (where site.RegularPages "Type" "post") ".Params.projects" "intersect" (slice $project) }}
+      {{ $count := len $items }}
+      {{ if ge $count 1 }}
+        <h2>Relevant Posts</h2>
         <ul>
           {{ range $items }}
-            {{ partial "views/author_profile_item" (dict "item" . "kind" "publication") }}
+            {{ partial "views/author_profile_item" (dict "item" . "kind" "post") }}
           {{ end }}
         </ul>
       {{ end }}

@@ -64,7 +64,7 @@ user_groups:
 ---
 
 
-### Short Introduction
+## Short Introduction
 
 Kira E. Scarpignato is expected to graduate with a B.S. in Biomedical Engineering and a minor in Biology in May 2024 Florida Institute of Technology. She graduated with a rank of 1 out of 400 students at Port St. Lucie High School and currently holds a 4.0 GPA in her major. 
 

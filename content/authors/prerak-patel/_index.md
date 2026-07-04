@@ -87,6 +87,6 @@ user_groups:
 
 
 
-### Short Introduction
+## Short Introduction
 
 Prerak Patel is pursuing an M.S. in Computer Engineering at Florida Institute of Technology and is expected to graduate in December 2026. He is an MLRG contributor whose research has focused on generative AI and deep learning for satellite- and radar-based weather nowcasting, including variational autoencoders, diffusion models, and probabilistic forecasting. His current work involves developing machine learning models for financial forecasting using multimodal data, natural language processing, and time-series analysis. Prior to joining Florida Tech, Patel worked as a Python Developer, building backend systems and RESTful APIs using Django and Redis. His research interests include machine learning, generative AI, computer vision, time-series forecasting, natural language processing, and remote sensing. After graduation, he plans to pursue a career in applied AI research and machine learning, developing intelligent systems that address real-world challenges.

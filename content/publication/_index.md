@@ -13,7 +13,7 @@ banner:
 <br>
 
 <p align="center">
-  A list of publications by our group members since 2018.
+  A list of publications and talks by members of our group since 2018.
 </p>
 
 <br>
