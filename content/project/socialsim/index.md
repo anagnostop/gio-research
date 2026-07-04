@@ -2,17 +2,18 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "SocialSim"
-subtitle: "Social Simulation for Evaluating Online Messaging Campaigns"
-summary: "Bottom-up, at-scale and accurate simulation of the spread and evolution of information cascades in online social media."
+subtitle: "Social Simulation for Evaluating Online Messaging Campaigns."
+summary: "Bottom-up, at-scale simulation of the spread and evolution of information cascades in online social media."
 # GCA: By uncommenting the next line, this project will appear under each author's "Latest" section.
 # authors: []
 authors: []
 tags: []
 categories: []
 date: 2017-10-10T20:52:20-04:00
-lastmod: 2022-09-15T20:52:20-04:00
+lastmod: 2026-07-04T12:00:00-04:00
 featured: false
 draft: false
+share: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -30,56 +31,46 @@ image:
 projects: []
 ---
 
+{{% callout note %}}
+Status: **Completed**.
+
+Our group’s SocialSim-related effort ran from Oct 2017 to Jul 2021, with consortium-wide reporting and follow-on dissemination continuing beyond the formal project period.
+{{% /callout %}}
 
 ## Synopsis
 
-Bad faith actors routinely leverage the global information environment to further their agendas by manipulating public opinion, for example, via disinformation. Being able to accurately simulate the spread and evolution of information cascading through the online information domain, from the bottom-up and at-scale, would enhance our fundamental undestanding of the nature of the information diffusion phenomenon that emerges. Such understanding could facilitate, for example, the detection, analysis and countering of strategic disinformation campaigns, as well as determining effective approaches in broadcasting critical disaster relief information to local populations in need. [DARPA's](https://www.darpa.mil/) [SocialSim](https://www.darpa.mil/program/computational-simulation-of-online-social-behavior) program aimed at making breakthroughs along this direction.
+Online information environments play a central role in how narratives, opinions, and coordinated messaging campaigns spread. These environments can be exploited to manipulate public opinion, for example through disinformation, while similar diffusion mechanisms can also shape the circulation of public-interest information during crises and disasters.
 
-Our MLRG joined a coalition of institutions, namely, University of Central Florida, University of North Carolina Charlotte, North Carolina State University, University of New York and Northern Illinois University, and participated in SocialSim as a TA1 (simulation) performer. 
+[DARPA’s](https://www.darpa.mil/) [SocialSim](https://www.darpa.mil/program/computational-simulation-of-online-social-behavior) program aimed to advance the scientific understanding and computational simulation of how information spreads and evolves across online social environments. Our group participated in this broader program through the Deep Agent project, a multi-institution TA1 effort led by the University of Central Florida. The Deep Agent effort sought to develop a simulation platform capable of modeling information dynamics across multiple social media environments at scale.
 
-Over the course of the project, the team pioneered two simulation models, namely the Multi-Action Cascade Model (MACM) and the Multiplexity-Based Model (MBM), which were refined over time to address six challenge problems involving a variety of scenarios and multiple social media platforms. These models demonstrated plausible social dynamics and were among the well-preforming approaches of the SocialSim program.  
+Our MLRG joined a multi-institution coalition led by the University of Central Florida and contributed to the simulation-modeling component of the program. The broader team brought together expertise in computational social science, agent-based modeling, machine learning, social network analysis, social simulation, and related social-science domains.
 
+The technical framework brought together agent-based modeling, social network analysis, machine learning, temporal event modeling, and high-performance/cloud computing. Over the course of the Deep Agent effort, the broader team developed and refined two main simulation models: the Multi-Action Cascade Model (MACM) and the Multiplexity-Based Model (MBM). These models were evaluated and improved across six SocialSim challenge problems involving different scenarios, information domains, and social media platforms.
 
+Within this broader effort, our group focused on modeling and predicting online information cascades, with particular emphasis on temporal point processes, self-exciting processes, software-vulnerability-related prediction problems, and dynamic popularity prediction.
 
 ## People
 
-The overall project's investigating team consisted of its 
+The broader Deep Agent project within DARPA’s SocialSim program was led by [Ivan Garibay](https://www.cs.ucf.edu/~garibay/) at the University of Central Florida.
 
-- Dr. [Ivan Garibay](https://www.cs.ucf.edu/~garibay/) (University of Central Florida)
+The senior project team included [Gita Sukthankar](https://www.cs.ucf.edu/person/gita-sukthankar/), [Stephen M. Fiore](https://csl.ist.ucf.edu/People), and [Alexander Mantzaris](https://sciences.ucf.edu/statistics/person/alexander-mantzaris/) from the University of Central Florida, {{% mention "admin" %}} from Florida Institute of Technology, [William Rand](https://poole.ncsu.edu/people/wmrand/) from North Carolina State University, [Joshua Epstein](https://publichealth.nyu.edu/faculty/joshua-epstein) from New York University, and [John T. Murphy](https://www.niu.edu/clas/anthropology/about/faculty-directory/murphy.shtml) from Northern Illinois University.
 
-- Dr. [Gita Sukthankar](https://www.cs.ucf.edu/person/gita-sukthankar/) (University of Central Florida)
-
-- Dr. [Stephen M. Fiore](https://csl.ist.ucf.edu/People) (University of Central Florida)
-
-- Dr. [Alexander Mantzaris](https://sciences.ucf.edu/statistics/person/alexander-mantzaris/) (University of Central Florida)
-
-- Dr. {{% mention "admin" %}} (Florida Institute of Technology)
-
-- Dr. [William Rand](https://poole.ncsu.edu/people/wmrand/) (North Carolina State University)
-
-- Dr. [Joshua Epstein](https://publichealth.nyu.edu/faculty/joshua-epstein) (University of New York)
-
-- Dr. [John T. Murphy](https://www.niu.edu/clas/anthropology/about/faculty-directory/murphy.shtml) (Northern Illinois University)
-
-Both  {{% mention "xi-zhang" %}} and  {{% mention "akshay-aravamudan" %}} from our MLRG were involved in various capacities during the course of the project.
-
-
+Our group focused on information-cascade modeling, temporal point-process methods, prediction of online activity, and dissemination of project outcomes. Key MLRG contributors included {{% mention "xi-zhang" %}} and, at a later point, {{% mention "akshay-aravamudan" %}}.
 
 ## Support
 
-Our MLRG's SocialSim-related efforts were supported by the following grant:
+Our MLRG’s SocialSim-related efforts were supported by the following grant:
 
-- Anagnostopoulos (Institutional PI), $432,459, Defense Advanced Research Projects Agency
-(subcontract from UCF), Prime (Federal) Grant No. [FA8650-18-C-7823](https://www.fbo.gov/spg/USAF/AFMC/AFRLWRS/Awards/FA865018C7824.html), "Deep Agent:
-A Framework for Information Spread and Evolution in Social Networks," 10/10/2017
-– 07/31/2021.
+- Anagnostopoulos (Institutional PI), $432,459, Defense Advanced Research Projects Agency (subcontract from UCF), Prime Federal Grant No. FA8650-18-C-7823, “_Deep Agent: A Framework for Information Spread and Evolution in Social Networks_,” 10/10/2017 – 07/31/2021.
 
-The project supported Zhang over its three-and-a-half year course.
-
-
+The project supported {{% mention "xi-zhang" %}} {{% mention "akshay-aravamudan" %}}.
 
 ## Outcomes
 
-Overall our group produced or contributed to one poster presentation and four conference papers related to the SocialSim effort. It is worth mentioning that the work presented in [(zhang2020)]({{< relref "/publication/zhang2020" >}}) was selected for inclusion into a DARPA Information Innovation Office (I2O) briefing presented to the US Undersecretary of Defense for Research and Engineering in August in 2020.
+At the broader project level, the Deep Agent team developed and evaluated a large-scale simulation framework for modeling the spread and evolution of information in online social networks. The project produced two main modeling approaches, MACM and MBM, and refined them through six SocialSim challenge problems involving multiple scenarios and social media platforms.
 
-Finally, our involvement into SocialSim was a catalyst in us acquiring substantial expertise in modeling event data using temporal point processes. 
+The broader effort also produced public software and modeling resources, including the NL4Py Python package, a base MACM model, the RHPC_SMPL toolkit for simulating social media at scale, and tools for forecasting social media activity using GDELT-derived narrative and event information.
+
+From our group’s perspective, the project led to one poster presentation and three conference papers related to the SocialSim effort. The work presented in [(zhang2020)]({{< relref "/publication/zhang2020" >}}), on predicting software vulnerability exploits from social media confabulations, was selected for inclusion in a DARPA Information Innovation Office briefing presented to the U.S. Under Secretary of Defense for Research and Engineering in August 2020.
+
+The project also helped our group develop substantial expertise in temporal point processes, self-exciting processes, cascade-size prediction, and event-data modeling. This expertise informed follow-on work on anytime information cascade prediction, non-parametric estimation for history-dependent point processes, vulnerability-exploitation prediction, and dynamic popularity prediction.
