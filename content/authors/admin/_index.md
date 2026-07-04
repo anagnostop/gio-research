@@ -112,22 +112,22 @@ Georgios C. Anagnostopoulos is an associate professor in the [Department of Elec
 + **[SocialSim / Deep Agent]({{< relref "/project/socialsim" >}}): A Framework for Information Spread and Evolution in Social Networks**  
   Institutional PI; subcontract from the University of Central Florida; supported by the Defense Advanced Research Projects Agency, 2017–2021.  
   Developed computational models for simulating information spread and evolution in online social networks.
+  
 
-## Selected Former Research Mentees
+## Selected Alumni & Former Research Mentees
 
-+ [Akshay Aravamudan](https://www.linkedin.com/in/akshay-aravamudan-49a470b7/), M.S. in Computer Engineering (Florida Institute of Technology, 2019), former M.S. advisee, thesis title: “_Survival Theory Modeling for Information Diffusion_.” Mr. Aravamudan is currently pursuing a doctoral degree in Computer Engineering
-at Florida Institute of Technology (FIT) under my mentorship.
++ [Akshay Aravamudan](https://www.linkedin.com/in/akshay-aravamudan-49a470b7/), Ph.D. in Computer Engineering, Florida Institute of Technology, 2025; former doctoral advisee. Dissertation: “_Expressive and Interpretable User Engagement Prediction using Multivariate Survival Processes_.” He also earned his M.S. in Computer Engineering from Florida Institute of Technology in 2019, also as a former M.S. advisee. Thesis: “_Survival Theory Modeling for Information Diffusion_.” After graduation, he joined Amazon in Seattle, WA, as an Applied Scientist II.
 
-+ [Niloofar Yousefi](https://www.linkedin.com/in/niloofar-yousefi-ph-d-94606046/), Ph.D. in Industrial Engineering (University of Central Florida, 2017), former doctoral advisee, dissertation title: “_Improved Multi-Task Learning Based on Local Rademacher Analysis_.” Currently, Dr. Yousefi is a visiting lecturer at University of Central Florida in Orlando, FL.
++ [Xi Zhang](https://www.linkedin.com/in/xi-zhang-018294b0/), Ph.D. in Electrical Engineering, Florida Institute of Technology, 2024; former doctoral advisee. Dissertation: “_Theoretical Advancements in Hawkes Processes and Their Practical Applications_.” After graduation, she joined the Learning Systems Group at Oak Ridge National Laboratory as a Research Scientist.
 
-+ [Mahlagha "Meli" Sedghi](https://www.linkedin.com/in/melisedghi/), M.S. in Electrical Engineering (University of Central Florida, 2017), former M.S. advisee, thesis title: “_Learning Kernel-based Approximate Isometries_.” Dr. Sedghi is currently a machine learning scientist at Expedia Group in Seattle, WA.
++ [Niloofar Yousefi](https://www.linkedin.com/in/niloofar-yousefi-ph-d-94606046/), Ph.D. in Industrial Engineering, University of Central Florida, 2017; former doctoral advisee. Dissertation: “_Improved Multi-Task Learning Based on Local Rademacher Analysis_.” After graduation, she joined the University of Central Florida as a Senior Research Associate.
 
-+ [Yinjie Huang](https://www.linkedin.com/in/yinjiehuang/), Ph.D. in Electrical Engineering, (University of Central Florida, 2016), former doctoral advisee, dissertation title: “_Content-Based Information Retrieval Via Nearest-Neighbor Search_.” Dr. Huang is currently a software engineer at Twitter, Inc. in the San Francisco Bay Area, CA.
++ [Mahlagha "Meli" Sedghi](https://www.linkedin.com/in/melisedghi/), M.S. in Electrical Engineering, University of Central Florida, 2017; former M.S. advisee. Thesis: “_Learning Kernel-based Approximate Isometries_.” After graduation, she joined Expedia Group as a Machine Learning Scientist II.
 
-+ [Tiantian Zhang](https://www.linkedin.com/in/tiantian-zhang-a4208726/), Ph.D. in Electrical Engineering (University of Central Florida, 2016), former doctoral advisee, dissertation title: “_Model Selection Via Racing_.” Dr. Zhang is a software engineer at Airbnb in Mountain View, CA.
++ [Yinjie Huang](https://www.linkedin.com/in/yinjiehuang/), Ph.D. in Electrical Engineering, University of Central Florida, 2016; former doctoral advisee. Dissertation: “_Content-Based Information Retrieval Via Nearest-Neighbor Search_.” After graduation, he joined Twitter as a Software Engineer.
 
-+ [Cong Li](https://www.linkedin.com/in/cong-li-1092762b/), Ph.D. in Electrical Engineering, (University of Central Florida, 2014), former doctoral advisee, dissertation title: “_On Kernel-Based Multi-Task Learning_.” Dr. Li is a software engineer with Google, Inc. in the San Francisco Bay Area, CA.
++ [Tiantian Zhang](https://www.linkedin.com/in/tiantian-zhang-a4208726/), Ph.D. in Electrical Engineering, University of Central Florida, 2016; former doctoral advisee. Dissertation: “_Model Selection Via Racing_.” After graduation, she joined Google Research as a Software Engineer.
 
-+ [Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/), undergraduate research mentee at University of Central Florida (Spring 2015 – Fall 2016). Mr. Velez-Ginorio was a 2015 Ronald E. McNair Scholar, 2016 UCF Distinguished Undergraduate Researcher awardee, a 2018 Frost Scholarship (Oxford University) awardee, a 2018 National Science Foundation (NSF) Graduate Research Fellowship awardee and a 2017 Barry Goldwater Scholar. The Barry Goldwater Scholarship award is the most prestigious undergraduate award in the US. He was one of the 250 recipients nation-wide and one of 11 recipients from Florida. He is currently pursuing a doctoral degree in Computer Science at University of Pennsylvania.
++ [Cong Li](https://www.linkedin.com/in/cong-li-1092762b/), Ph.D. in Electrical Engineering, University of Central Florida, 2014; former doctoral advisee. Dissertation: “_On Kernel-Based Multi-Task Learning_.” After graduation, he joined Google as a Staff Software Engineer.
 
-+ Roberto Miguez, undergraduate research mentee at University of Central Florida (Spring & Fall 2008). Mr. Miguez was a 2008 Ronald E. McNair Scholar and a 2009 NSF Graduate Research Fellowship awardee. He pursued a doctoral degree in Biomedical Engineering at the University of Michigan.
++ [Joey Velez-Ginorio](https://www.linkedin.com/in/joey-velez-ginorio-4826a1419/), undergraduate research mentee, University of Central Florida, 2015–2016. Honors included the Ronald E. McNair Scholarship, UCF Distinguished Undergraduate Researcher recognition, the Barry Goldwater Scholarship, the Frost Scholarship, and the NSF Graduate Research Fellowship. After completing his undergraduate degree, he earned his M.S. in Mathematics and Foundations of Computer Science from the University of Oxford.
