@@ -92,7 +92,7 @@ user_groups:
 Akshay Aravamudan received his Doctor of Computer Engineering degree from Florida Institute of Technology in April 2025. His research interests include machine learning, stochastic point processes for modeling information diffusion and influence in social media, machine learning for hydrology, and machine learning on the edge. During his doctoral studies, he was affiliated with Florida Tech's Center for Advanced Data Analytics & Systems ([CADAS](https://cadas.fit.edu)). He also earned his Master of Science in Computer Engineering from Florida Institute of Technology in July 2019, with a thesis focused on modeling information diffusion in social media using multivariate survival processes. After graduation, Akshay joined Amazon in Seattle, WA, as an Applied Scientist II. More information is available on his [website](https://aaravamudan2014.github.io/Akshay-Aravamudan/), and he can be followed on [LinkedIn](https://www.linkedin.com/in/akshay-aravamudan-49a470b7/).
 
 
-### Professional Service
+## Professional Service
 
  - Reviewer for the following conferences: IEEE-SMC 2021, AISTATS 2021, AAMAS 2021 and SBP-BRiMS 2021.
  - Reviewer for the following journals: IEEE Transactions on Cybernetics in 2021.

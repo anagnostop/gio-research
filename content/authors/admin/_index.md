@@ -89,7 +89,7 @@ Georgios C. Anagnostopoulos is an associate professor of Electrical & Computer E
 
 ---
 
-### Funded Projects
+## Funded Projects
 
 + Institutional PI (Institutional Co-PI: Anthony O. Smith), $443,848, Defense Threat Reduction Agency (subcontract from Array Technologies Inc.), Prime Federal Contract No. HDTRA1-22-C-0005, “_A Deep Learning Approach for Enhanced Identification of Nuclear Explosions_,” 10/11/2021 – 10/10/2023.
 
@@ -105,7 +105,7 @@ Georgios C. Anagnostopoulos is an associate professor of Electrical & Computer E
 ---
 
 
-### Selected Former Research Mentees
+## Selected Former Research Mentees
 
 + [Akshay Aravamudan](https://www.linkedin.com/in/akshay-aravamudan-49a470b7/), M.S. in Computer Engineering (Florida Institute of Technology, 2019), former M.S. advisee, thesis title: “_Survival Theory Modeling for Information Diffusion_.” Mr. Aravamudan is currently pursuing a doctoral degree in Computer Engineering
 at Florida Institute of Technology (FIT) under my mentorship.
