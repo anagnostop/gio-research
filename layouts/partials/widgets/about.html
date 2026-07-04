@@ -129,7 +129,7 @@
         {{ $person_page.Content }}
       </div>
       <div class="article-style d-none d-lg-block">
-        {{ $desktop_top_content }}
+        {{ $desktop_top_content | safeHTML }}
       </div>
     {{ else }}
       <div class="article-style">
@@ -144,7 +144,7 @@
 <div class="row d-none d-lg-flex mt-4">
   <div class="col-12">
     <div class="article-style">
-      {{ $desktop_bottom_content }}
+      {{ $desktop_bottom_content | safeHTML }}
     </div>
   </div>
 </div>

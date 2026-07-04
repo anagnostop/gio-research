@@ -43,7 +43,7 @@
     {{ end }}
 
     {{ if gt (len $recent_publications) 0 }}
-    <div class="article-widget content-widget-hr">
+    <div class="article-widget content-widget-hr author-profile-widget">
       <h2>{{ if .File }}Publications & Talks{{ else }}Publications & Talks with Our Group{{ end }}</h2>
       <ul>
         {{ range $recent_publications }}
@@ -63,7 +63,7 @@
     {{ end }}
 
     {{ if gt (len $recent_posts) 0 }}
-    <div class="article-widget content-widget-hr">
+    <div class="article-widget content-widget-hr author-profile-widget">
       <h2>Relevant Posts</h2>
       <ul>
         {{ range $recent_posts }}

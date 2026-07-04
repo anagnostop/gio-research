@@ -59,3 +59,11 @@
     height: auto;
   }
 }
+
+// On author profile pages, tighten the spacing before the Publications & Talks
+// and Relevant Posts widgets so they sit more naturally after the main profile
+// content. Keep the change scoped to author pages only.
+#profile-page .author-profile-widget {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+}
