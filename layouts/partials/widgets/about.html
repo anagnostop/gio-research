@@ -14,6 +14,20 @@
   {{ errorf "Could not find an author page at `%s`. Please check the value of `author` in your About widget and create an associated author page if one does not already exist. See https://wowchemy.com/docs/page-builder/#about " $person_page_path }}
 {{end}}
 {{ $person := $person_page.Params }}
+{{ $is_author_profile_page := not $page.Params.widget }}
+{{ $desktop_top_content := $person_page.Content }}
+{{ $desktop_bottom_content := "" }}
+
+{{ if $is_author_profile_page }}
+  {{ $profile_break := "<div class=\"profile-break-marker\"></div>" }}
+  {{ if in $person_page.Content $profile_break }}
+    {{ $parts := split $person_page.Content $profile_break }}
+    {{ $desktop_top_content = index $parts 0 }}
+    {{ if gt (len $parts) 1 }}
+      {{ $desktop_bottom_content = delimit (after 1 $parts) $profile_break }}
+    {{ end }}
+  {{ end }}
+{{ end }}
 
 <!-- About widget -->
 <div class="row">
@@ -110,9 +124,28 @@
 
     <br>
 
-    <div class="article-style">
-      {{ $person_page.Content }}
-    </div>
+    {{ if $is_author_profile_page }}
+      <div class="article-style d-lg-none">
+        {{ $person_page.Content }}
+      </div>
+      <div class="article-style d-none d-lg-block">
+        {{ $desktop_top_content }}
+      </div>
+    {{ else }}
+      <div class="article-style">
+        {{ $person_page.Content }}
+      </div>
+    {{ end }}
 
   </div>
 </div>
+
+{{ if and $is_author_profile_page $desktop_bottom_content }}
+<div class="row d-none d-lg-flex mt-4">
+  <div class="col-12">
+    <div class="article-style">
+      {{ $desktop_bottom_content }}
+    </div>
+  </div>
+</div>
+{{ end }}

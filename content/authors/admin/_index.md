@@ -6,7 +6,7 @@ title: Georgios C. Anagnostopoulos
 superuser: true
 
 # Role/position
-role: Associate Professor of Electrical & Computer Engineering
+role: Associate Professor of Electrical Engineering & Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -89,23 +89,29 @@ user_groups:
 
 Georgios C. Anagnostopoulos is an associate professor in the [Department of Electrical Engineering and Computer Science](https://www.fit.edu/electrical-engineering-and-computer-science/) at the Florida Institute of Technology ([FIT](https://www.fit.edu)) in Melbourne, Florida, where he leads the [Machine Learning Research Group](https://gio-research.ai/). His research focuses on the foundations of AI/ML, probabilistic modeling, deep learning, optimization, Earth-science AI, and information diffusion. His work bridges foundational machine learning and applied AI for scientific and societal challenges, including hydroclimatic extremes, forecasting, and the modeling of complex information environments. He is an IEEE Senior Member. Anagnostopoulos is a native of [Patras](https://en.wikipedia.org/wiki/Patras), Greece.
 
----
+{{< profile-break >}}
 
-## Funded Projects
+## Selected Research Projects
 
-+ Institutional PI (Institutional Co-PI: Anthony O. Smith), $443,848, Defense Threat Reduction Agency (subcontract from Array Technologies Inc.), Prime Federal Contract No. HDTRA1-22-C-0005, “_A Deep Learning Approach for Enhanced Identification of Nuclear Explosions_,” 10/11/2021 – 10/10/2023.
++ **[DeLAEINE]({{< relref "/project/delaeine" >}}): A Deep Learning Approach for Enhanced Identification of Nuclear Explosions**  
+  Institutional PI, with Anthony O. Smith as Institutional Co-PI; subcontract from Array Information Technology, Inc.; supported by the Defense Threat Reduction Agency, 2021–2023.  
+  Developed machine-learning methods and software tools for seismic event discrimination at regional distances.
 
-+ Co-PI (PI: Adrian M. Peter), $2,390,000, Air Force Research Laboratory, “_Multi-domain, Multi-sensor, Cyber-physical Tactical Exploitation (M2CTE)_,” 01/01/2021 – 12/31/2023.
++ **[SERVIR West Africa Flash Flood Forecasting]({{< relref "/project/servir" >}})**  
+  Co-I; PI: Efthymios I. Nikolopoulos; supported by NASA SERVIR, 2023–2026.  
+  Developed machine-learning and hydrologic-modeling components for satellite-based flash-flood nowcasting and forecasting in West Africa.
 
-+ PI (Co-PI: Efthymios I. Nikolopoulos), $11,675, FIT College of Engineering & Sciences, Institutional Research Incentive Program “_Satellite Imagery Downscaling via Deep Image Super-resolution (SIDDIS) - Real-World Data_,” 01/01/2022 – 06/15/2022.
++ **Multi-domain, Multi-sensor, Cyber-physical Tactical Exploitation (M2CTE)**  
+  Co-I; PI: Adrian M. Peter; supported by the Air Force Research Laboratory, 2021–2023.  
+  Contributed machine-learning and data-analytic methods for multi-domain, multi-sensor cyber-physical systems.
 
-+ PI (Co-PI: Efthymios I. Nikolopoulos), $6,000, FIT College of Engineering & Sciences, Institutional Research Incentive Program “_Satellite Imagery Downscaling via Deep Image Super-resolution (SIDDIS) - Pilot Effort_,” 01/01/2021 – 06/15/2021. `[completed]`
++ **[SIDDIS]({{< relref "/project/siddis" >}}): Satellite Imagery Downscaling via Deep Image Super-Resolution**  
+  PI, with Efthymios I. Nikolopoulos as Co-PI; supported by the FIT College of Engineering & Sciences Institutional Research Incentive Program, 2021–2022.  
+  Explored deep-learning methods for satellite imagery downscaling and Earth-science applications.
 
-+ Institutional PI, $432,459, Defense Advanced Research Projects Agency (subcontract from University of Central Florida), Prime Federal Grant No. FA8650-18-C-7823, “_Deep Agent: A Framework for Information Spread and Evolution in Social Networks_,” 10/10/2017 – 12/31/2021. `[completed]`
-
-
----
-
++ **[SocialSim / Deep Agent]({{< relref "/project/socialsim" >}}): A Framework for Information Spread and Evolution in Social Networks**  
+  Institutional PI; subcontract from the University of Central Florida; supported by the Defense Advanced Research Projects Agency, 2017–2021.  
+  Developed computational models for simulating information spread and evolution in online social networks.
 
 ## Selected Former Research Mentees
 
