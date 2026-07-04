@@ -63,7 +63,7 @@ Key project partners and stakeholders included SERVIR West Africa / AGRHYMET and
 
 Our group’s project-related efforts were supported by the following grant:
 
-- Anagnostopoulos (Institutional PI), $168,436.05, National Aeronautics and Space Administration (subcontract from Rutgers University), Prime Contract No. 80NSSC23K0500, “_Machine learning-based flash flood forecasting in West Africa with satellite observations_,” 03/01/2023 – 02/28/2026.
+- Anagnostopoulos (Institutional PI), National Aeronautics and Space Administration (subcontract from Rutgers University), Prime Contract No. 80NSSC23K0500, “_Machine learning-based flash flood forecasting in West Africa with satellite observations_,” 03/01/2023 – 02/28/2026.
 
 The project partially supported {{% mention "akshay-aravamudan" %}}, {{% mention "xi-zhang" %}} and {{% mention "prerak-patel" %}}.
 

@@ -61,7 +61,7 @@ Our group focused on information-cascade modeling, temporal point-process method
 
 Our MLRG’s SocialSim-related efforts were supported by the following grant:
 
-- Anagnostopoulos (Institutional PI), $432,459, Defense Advanced Research Projects Agency (subcontract from UCF), Prime Federal Grant No. FA8650-18-C-7823, “_Deep Agent: A Framework for Information Spread and Evolution in Social Networks_,” 10/10/2017 – 07/31/2021.
+- Anagnostopoulos (Institutional PI), Defense Advanced Research Projects Agency (subcontract from UCF), Prime Federal Grant No. FA8650-18-C-7823, “_Deep Agent: A Framework for Information Spread and Evolution in Social Networks_,” 10/10/2017 – 07/31/2021.
 
 The project supported {{% mention "xi-zhang" %}} {{% mention "akshay-aravamudan" %}}.
 

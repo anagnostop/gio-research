@@ -61,7 +61,7 @@ Our group focused on machine-learning-based seismic event discrimination, signal
 
 Our group’s DeLAEINE-related efforts were supported through the following federal Small Business Innovation Research Program Phase II grant:
 
-- Anagnostopoulos (PI) & Smith (Co-PI), $443,848, Defense Threat Reduction Agency (subcontract from ARRAY), Prime Contract No. HDTRA1-22-C-0005, “_A Deep Learning Approach for Enhanced Identification of Nuclear Explosions_,” 10/11/2021 – 10/10/2023.
+- Anagnostopoulos (PI) & Smith (Co-PI), Defense Threat Reduction Agency (subcontract from ARRAY), Prime Contract No. HDTRA1-22-C-0005, “_A Deep Learning Approach for Enhanced Identification of Nuclear Explosions_,” 10/11/2021 – 10/10/2023.
 
 The project supported graduate work by {{% mention "erbene-de-castro-maia-junior" %}}, {{% mention "akshay-aravamudan" %}}, {{% mention "xi-zhang" %}}, and Ruksana Kabealo.
 
@@ -74,4 +74,3 @@ The effort also produced a configurable Python software package, DeLAEINE, which
 An important technical outcome was the development and evaluation of geophysics-inspired feature representations for regional seismic waveforms. The project also highlighted the value of evaluating discrimination pipelines in both station-based and network-based settings, where information from multiple stations can be fused to support event-level decisions.
 
 From our group’s perspective, DeLAEINE strengthened our work at the intersection of machine learning, signal processing, and geophysical applications. It also supported graduate-student research and expanded our experience with scientific software development for configurable machine-learning pipelines.
-

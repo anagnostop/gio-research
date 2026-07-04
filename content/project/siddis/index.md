@@ -65,9 +65,9 @@ The project also provided an opportunity to involve Scarpignato, then an undergr
 
 The efforts of our interdisciplinary team were supported by FIT’s College of Engineering & Sciences Institutional Research Incentive (IRI) Program through the following internal grants:
 
-- Anagnostopoulos (PI) & Nikolopoulos (Co-PI), $6,000, College of Engineering & Sciences, FIT, “_Satellite Imagery Downscaling via Deep Image Super-resolution (SIDDIS) - Pilot Effort_,” 05/02/2021 – 06/12/2021.
+- Anagnostopoulos (PI) & Nikolopoulos (Co-PI), College of Engineering & Sciences, FIT, “_Satellite Imagery Downscaling via Deep Image Super-resolution (SIDDIS) - Pilot Effort_,” 05/02/2021 – 06/12/2021.
 
-- Anagnostopoulos (PI) & Nikolopoulos (Co-PI), $11,675, College of Engineering & Sciences, FIT, “_Satellite Imagery Downscaling via Deep Image Super-resolution (SIDDIS) – Real-World Data_,” 01/09/2022 – 06/25/2022.
+- Anagnostopoulos (PI) & Nikolopoulos (Co-PI), College of Engineering & Sciences, FIT, “_Satellite Imagery Downscaling via Deep Image Super-resolution (SIDDIS) – Real-World Data_,” 01/09/2022 – 06/25/2022.
 
 Both phases of the project partially supported doctoral students Aravamudan, Rasheed, and Zhang. Additionally, its second phase partially supported Scarpignato.
 
