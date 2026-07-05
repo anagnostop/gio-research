@@ -56,18 +56,14 @@ design:
   columns: '1'
 ---
 
-For research collaborations, student inquiries, and professional contact, please contact Dr. Georgios C. Anagnostopoulos using the information below. Email is the best initial point of contact.
+For research collaborations, student inquiries, and professional correspondence, email is the best initial way to contact Dr. Georgios C. Anagnostopoulos.
 
 ## Prospective Students
 
 If you are interested in joining the group, please include the following in your initial email:
 
-+ Updated CV
-+ Unofficial academic transcripts in English
-+ Brief research statement (about 1 page) describing your background, interests, and goals
+- Updated CV
+- Unofficial academic transcripts in English
+- Brief research statement (about one page) describing your background, interests, and goals
 
 Please indicate which of our current research directions best match your interests. You may also find it helpful to review our [research projects](/research/) before reaching out.
-
-## Office
-
-Dr. Anagnostopoulos's office is located in Room 344 of the F.W. Olin Engineering Building at Florida Tech in Melbourne, Florida. Meetings are typically arranged by appointment.
