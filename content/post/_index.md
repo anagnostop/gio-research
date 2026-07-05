@@ -1,5 +1,5 @@
 ---
-title: "Posts"
+title: "News"
 
 # Listing view
 view: compact
@@ -13,7 +13,7 @@ banner:
 <br>
 
 <p align="center">
-  Various posts and news.
+  News, announcements, and research updates from the group.
 </p>
 
 <br>
