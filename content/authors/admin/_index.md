@@ -93,6 +93,8 @@ Georgios C. Anagnostopoulos is an associate professor in the [Department of Elec
 
 ## Selected Research Projects
 
+Below are selected funded projects that reflect the main directions of my recent research.
+
 + **[DeLAEINE]({{< relref "/project/delaeine" >}}): A Deep Learning Approach for Enhanced Identification of Nuclear Explosions**  
   Institutional PI, with Anthony O. Smith as Institutional Co-PI; subcontract from Array Information Technology, Inc.; supported by the Defense Threat Reduction Agency, 2021–2023.  
   Developed machine-learning methods and software tools for seismic event discrimination at regional distances.
@@ -116,6 +118,8 @@ Georgios C. Anagnostopoulos is an associate professor in the [Department of Elec
 
 ## Selected Alumni & Former Research Mentees
 
+The following alumni and former mentees reflect part of my advising and mentorship work across doctoral, master’s, and undergraduate levels.
+
 + [Akshay Aravamudan](https://www.linkedin.com/in/akshay-aravamudan-49a470b7/), Ph.D. in Computer Engineering, Florida Institute of Technology, 2025; former doctoral advisee. Dissertation: “_Expressive and Interpretable User Engagement Prediction using Multivariate Survival Processes_.” He also earned his M.S. in Computer Engineering from Florida Institute of Technology in 2019, also as a former M.S. advisee. Thesis: “_Survival Theory Modeling for Information Diffusion_.” After graduation, he joined Amazon in Seattle, WA, as an Applied Scientist II.
 
 + [Xi Zhang](https://www.linkedin.com/in/xi-zhang-018294b0/), Ph.D. in Electrical Engineering, Florida Institute of Technology, 2024; former doctoral advisee. Dissertation: “_Theoretical Advancements in Hawkes Processes and Their Practical Applications_.” After graduation, she joined the Learning Systems Group at Oak Ridge National Laboratory as a Research Scientist.
@@ -130,4 +134,4 @@ Georgios C. Anagnostopoulos is an associate professor in the [Department of Elec
 
 + [Cong Li](https://www.linkedin.com/in/cong-li-1092762b/), Ph.D. in Electrical Engineering, University of Central Florida, 2014; former doctoral advisee. Dissertation: “_On Kernel-Based Multi-Task Learning_.” After graduation, he joined Google as a Staff Software Engineer.
 
-+ [Joey Velez-Ginorio](https://www.linkedin.com/in/joey-velez-ginorio-4826a1419/), undergraduate research mentee, University of Central Florida, 2015–2016. Honors included the Ronald E. McNair Scholarship, UCF Distinguished Undergraduate Researcher recognition, the Barry Goldwater Scholarship, the Frost Scholarship, and the NSF Graduate Research Fellowship. After completing his undergraduate degree, he earned his M.S. in Mathematics and Foundations of Computer Science from the University of Oxford.
++ [Joey Velez-Ginorio](https://www.linkedin.com/in/joey-velez-ginorio-4826a1419/), undergraduate research mentee, University of Central Florida, 2015–2016. Honors included the Ronald E. McNair Scholarship, UCF Distinguished Undergraduate Researcher recognition, the Barry Goldwater Scholarship, the Frost Scholarship, and the NSF Graduate Research Fellowship. After completing his undergraduate degree, he earned an M.S. in Mathematics and Foundations of Computer Science from the University of Oxford.
