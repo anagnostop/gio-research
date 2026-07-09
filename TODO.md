@@ -10,6 +10,16 @@
   - Motivation:
     - avoid future-dated entries unexpectedly disappearing from normal builds
     - keep sorting/year semantics separate from site-visibility semantics
+- [ ] Revisit future-content build behavior across local, Netlify preview, and
+  Netlify production builds.
+  - Current issue:
+    - deploy previews use `--buildFuture`, while production does not
+    - this can make future-dated items appear in preview/development but not on
+      the live site
+  - Possible direction:
+    - consider removing `--buildFuture` from deploy previews so preview matches
+      production more closely
+    - document the final visibility rule in `README.md`
 
 ## Content follow-ups
 
