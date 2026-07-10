@@ -23,9 +23,9 @@ featured: false
 url_publication: https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Paper/473381
 url_code:
 url_dataset:
-url_poster:
+url_poster: nasibi2026_poster.pdf
 url_project:
-url_slides: nasibi2026_slides.pdf
+url_slides:
 url_source:
 url_video:
 
