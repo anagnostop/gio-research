@@ -10,3 +10,4 @@ assets/jsconfig.json
 # Other (GCA)
 .hugo_build.lock
 go.sum
+tmp/

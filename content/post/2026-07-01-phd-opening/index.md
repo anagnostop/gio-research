@@ -27,7 +27,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [ppfe]
 ---
 
 **Jul 1, 2026.** The Machine Learning Research Group at [Florida Institute of Technology](https://www.fit.edu), located in Melbourne, Florida, USA, invites applications for a doctoral student position in foundational artificial intelligence and machine learning (AI/ML) in the [Department of Electrical Engineering and Computer Science](https://www.fit.edu/electrical-engineering-and-computer-science/).
