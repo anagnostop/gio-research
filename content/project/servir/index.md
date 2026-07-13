@@ -53,7 +53,7 @@ Our work explored methods for producing short-term, IMERG-like precipitation fie
 
 The project was led by [Efthymios I. Nikolopoulos](https://cee.rutgers.edu/efthymios-nikolopoulos), currently at Rutgers University.
 
-The senior project team included [Abdou Ali](https://www.researchgate.net/profile/Abdou-Ali) from AGRHYMET / SERVIR West Africa, [Jonathan J. Gourley](https://inside.nssl.noaa.gov/profiles/entry/gourley-jonathan-jj/) from NOAA / National Severe Storms Laboratory, [Viviana Maggioni](https://volgenau.gmu.edu/profiles/vmaggion) from George Mason University, [Humberto Vergara Arrieta](https://engineering.uiowa.edu/directory/humberto-vergara), currently at the University of Iowa, and {{% mention "admin" %}} from Florida Institute of Technology.
+The senior project team included [Abdou Ali](https://www.researchgate.net/profile/Abdou-Ali) from AGRHYMET / SERVIR West Africa, [Jonathan J. Gourley](https://inside.nssl.noaa.gov/profiles/entry/gourley-jonathan-jj/) from NOAA / National Severe Storms Laboratory, [Viviana Maggioni](https://volgenau.gmu.edu/profiles/vmaggion) from George Mason University, [Humberto J. Vergara](https://engineering.uiowa.edu/directory/humberto-vergara), currently at the University of Iowa, and {{% mention "admin" %}} from Florida Institute of Technology.
 
 Our group focused on machine-learning-based precipitation nowcasting, satellite-data-driven modeling, software development, and dissemination of project outcomes. Key MLRG contributors included {{% mention "akshay-aravamudan" %}}, {{% mention "xi-zhang" %}}, and, at a later stage, {{% mention "prerak-patel" %}}.
 

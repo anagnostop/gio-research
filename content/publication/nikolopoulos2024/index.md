@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Advancing Flash Flood Forecasting Capabilities in West Africa with Machine Learning and Satellite Observations"
-authors: ["Efthymios I. Nikolopoulos", "Abdou Ali", "William Amponsah", admin, akshay-aravamudan, "Jonathan J. Gourley", "Viviana Maggioni", "Malihe Nasibi", "Vanessa Robledo", "Humberto Vergara", xi-zhang]
+authors: ["Efthymios I. Nikolopoulos", "Abdou Ali", "William Amponsah", admin, akshay-aravamudan, "Jonathan J. Gourley", "Viviana Maggioni", "Malihe Nasibi", "Vanessa Robledo", "Humberto J. Vergara", xi-zhang]
 date: 2024-01-31T12:00:00-05:00
 doi: ""
 

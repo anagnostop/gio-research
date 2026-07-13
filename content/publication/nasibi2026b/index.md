@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Can Satellite Products be Used to Study Extreme Precipitation Trends across West Africa?"
-authors: ["Malihe Nasibi", "Efthymios I. Nikolopoulos", "William Amponsah", "Humberto Vergara Arrieta", admin, "Ishrat Jahan Dollan", "Abdou Ali", "Francisca Martey", "Viviana Maggioni"]
+authors: ["Malihe Nasibi", "Efthymios I. Nikolopoulos", "William Amponsah", "Humberto J. Vergara", admin, "Ishrat Jahan Dollan", "Abdou Ali", "Francisca Martey", "Viviana Maggioni"]
 date: 2026-07-07T12:00:00-04:00
 doi: ""
 
